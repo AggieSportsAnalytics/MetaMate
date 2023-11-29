@@ -42,64 +42,121 @@ except Exception as e:
 previous_height = driver.execute_script('return document.body.scrollHeight')
 print("Success")
 
-# Scroll down until reaching the bottom of the page
-while True:
-    driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
-    print("Success1")
-    time.sleep(30)  # Adjust the sleep time based on your page loading speed
+buttons  = driver.find_elements(By.CSS_SELECTOR, 'button[data-tip]')
+print("Success")
 
-    # Get the new page height
-    new_height = driver.execute_script('return document.body.scrollHeight')
-    print("Success1")
+# Dictionary to store data for each role
+role_data = {}
 
-    # Break the loop if scrolling doesn't change the height (indicating the end of the page)
-    if new_height == previous_height:
-        print("Success2")
-        break
+for i in range(len(buttons)):
+    # Find buttons again to avoid StaleElementReferenceException
+    buttons = driver.find_elements(By.CSS_SELECTOR, 'button[data-tip]')
 
-    # Update the previous height for the next iteration
-    previous_height = new_height
-    print("Success1")
+    # Click the button to activate it
+    buttons[i].click()
 
+    # Wait until the button is active (assuming the button's state changes)
+    WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.XPATH, '//button[@data-tip and @data-active="true"]'))
+    )
+
+    # Print the role information
+    role = buttons[i].get_attribute('data-tip')
+    print(f"Role: {role}")
+
+    # Sleep for 10 seconds to allow time for the page to load and data to be scraped
+    time.sleep(5)
 
 # Print all span elements with class "champion-name"
-champion_spans = driver.find_elements(By.CSS_SELECTOR, 'span.champion-name')
-champion_names = [champion_span.text for champion_span in champion_spans]
+    champion_spans = driver.find_elements(By.CSS_SELECTOR, 'span.champion-name')
+    champion_names = [champion_span.text for champion_span in champion_spans]
 
-# Get all elements with class "cell type-body2-form--bold" containing percentage values using XPath
-percentage_elements = driver.find_elements(By.XPATH, '//div[contains(@class, "cell type-body2-form--bold") and contains(text(), "%")]')
+    # Get all elements with class "cell type-body2-form--bold" containing percentage values using XPath
+    percentage_elements = driver.find_elements(By.XPATH, '//div[contains(@class, "cell type-body2-form--bold") and contains(text(), "%")]')
 
-# Extract the text from the elements
-percentage_values = [element.text for element in percentage_elements]
-win_rate = percentage_values[0::3]
-ban_rate = percentage_values[1::3]
-pick_rate = percentage_values[2::3]
+    # Extract the text from the elements
+    percentage_values = [element.text for element in percentage_elements]
+    win_rate = percentage_values[0::3]
+    ban_rate = percentage_values[1::3]
+    pick_rate = percentage_values[2::3]
+    
+    # Create a DataFrame for the current role
+    role_df = pd.DataFrame({
+        'Champion': champion_names,
+        'WinRate(%)': win_rate,
+        'BanRate(%)': ban_rate,
+        'PickRate(%)': pick_rate,
+    })
 
+    # Use separate variables for each role's DataFrame
+    if role == 'All':
+        all_role_df = role_df
+    elif role == 'Top':
+        top_role_df = role_df
+    elif role == 'Jungle':
+        jungle_role_df = role_df
+    elif role == 'Mid':
+        mid_role_df = role_df
+    elif role == 'ADC':
+        adc_role_df = role_df
+    elif role == 'Support':
+        support_role_df = role_df
 
 # Quit the driver
 driver.quit()
 
-# Creating Data Frame
-data = {'Champion': champion_names, 'WinRate(%)': win_rate,'BanRate(%)': ban_rate, 'PickRate(%)': pick_rate, }
 
-# Create a DataFrame
-Champion_Stat = pd.DataFrame(data)
-
-# Remove '%' character from the 'WinRate(%)' column
-Champion_Stat['WinRate(%)'] = Champion_Stat['WinRate(%)'].str.replace('%', '')
-
-# Convert 'WinRate(%)' column to numeric (float)
-Champion_Stat['WinRate(%)'] = pd.to_numeric(Champion_Stat['WinRate(%)'])
-# Remove '%' character from the 'WinRate(%)' column
-Champion_Stat["BanRate(%)"] = Champion_Stat['BanRate(%)'].str.replace('%', '')
-
-# Convert 'WinRate(%)' column to numeric (float)
-Champion_Stat['BanRate(%)'] = pd.to_numeric(Champion_Stat['BanRate(%)'])
-# Remove '%' character from the 'WinRate(%)' column
-Champion_Stat['PickRate(%)'] = Champion_Stat['PickRate(%)'].str.replace('%', '')
-
-# Convert 'WinRate(%)' column to numeric (float)
-Champion_Stat['PickRate(%)'] = pd.to_numeric(Champion_Stat['PickRate(%)'])
+print("\nRole: Top")
+top_role_df['WinRate(%)'] = top_role_df['WinRate(%)'].str.replace('%', '')
+top_role_df['WinRate(%)'] = pd.to_numeric(top_role_df['WinRate(%)'])
+top_role_df["BanRate(%)"] = top_role_df['BanRate(%)'].str.replace('%', '')
+top_role_df['BanRate(%)'] = pd.to_numeric(top_role_df['BanRate(%)'])
+top_role_df['PickRate(%)'] = top_role_df['PickRate(%)'].str.replace('%', '')
+top_role_df['PickRate(%)'] = pd.to_numeric(top_role_df['PickRate(%)'])
+print(top_role_df)
 
 
-print(Champion_Stat)
+print("\nRole: Jungle")
+jungle_role_df['WinRate(%)'] = jungle_role_df['WinRate(%)'].str.replace('%', '')
+jungle_role_df['WinRate(%)'] = pd.to_numeric(jungle_role_df['WinRate(%)'])
+jungle_role_df["BanRate(%)"] = jungle_role_df['BanRate(%)'].str.replace('%', '')
+jungle_role_df['BanRate(%)'] = pd.to_numeric(jungle_role_df['BanRate(%)'])
+jungle_role_df['PickRate(%)'] = jungle_role_df['PickRate(%)'].str.replace('%', '')
+jungle_role_df['PickRate(%)'] = pd.to_numeric(jungle_role_df['PickRate(%)'])
+print(jungle_role_df)
+
+
+print("\nRole: Mid")
+mid_role_df['WinRate(%)'] = mid_role_df['WinRate(%)'].str.replace('%', '')
+mid_role_df['WinRate(%)'] = pd.to_numeric(mid_role_df['WinRate(%)'])
+mid_role_df["BanRate(%)"] = mid_role_df['BanRate(%)'].str.replace('%', '')
+mid_role_df['BanRate(%)'] = pd.to_numeric(mid_role_df['BanRate(%)'])
+mid_role_df['PickRate(%)'] = mid_role_df['PickRate(%)'].str.replace('%', '')
+mid_role_df['PickRate(%)'] = pd.to_numeric(mid_role_df['PickRate(%)'])
+print(mid_role_df)
+
+print("\nRole: ADC")
+adc_role_df['WinRate(%)'] = adc_role_df['WinRate(%)'].str.replace('%', '')
+adc_role_df['WinRate(%)'] = pd.to_numeric(adc_role_df['WinRate(%)'])
+adc_role_df["BanRate(%)"] = adc_role_df['BanRate(%)'].str.replace('%', '')
+adc_role_df['BanRate(%)'] = pd.to_numeric(adc_role_df['BanRate(%)'])
+adc_role_df['PickRate(%)'] = adc_role_df['PickRate(%)'].str.replace('%', '')
+adc_role_df['PickRate(%)'] = pd.to_numeric(adc_role_df['PickRate(%)'])
+print(adc_role_df)
+
+
+
+print("\nRole: Support")
+support_role_df['WinRate(%)'] = support_role_df['WinRate(%)'].str.replace('%', '')
+support_role_df['WinRate(%)'] = pd.to_numeric(support_role_df['WinRate(%)'])
+support_role_df["BanRate(%)"] = support_role_df['BanRate(%)'].str.replace('%', '')
+support_role_df['BanRate(%)'] = pd.to_numeric(support_role_df['BanRate(%)'])
+support_role_df['PickRate(%)'] = support_role_df['PickRate(%)'].str.replace('%', '')
+support_role_df['PickRate(%)'] = pd.to_numeric(support_role_df['PickRate(%)'])
+print(support_role_df)
+
+top_role_df.to_csv(r"C:\Users\Harry Trinh\Documents\GitHub\MetaMate\MetaMate Project\top.csv",index=False)
+jungle_role_df.to_csv(r"C:\Users\Harry Trinh\Documents\GitHub\MetaMate\MetaMate Project\jungle.csv",index=False)
+mid_role_df.to_csv(r"C:\Users\Harry Trinh\Documents\GitHub\MetaMate\MetaMate Project\mid.csv",index=False)
+adc_role_df.to_csv(r"C:\Users\Harry Trinh\Documents\GitHub\MetaMate\MetaMate Project\adc.csv",index=False)
+support_role_df.to_csv(r"C:\Users\Harry Trinh\Documents\GitHub\MetaMate\MetaMate Project\sup.csv", index=False)
