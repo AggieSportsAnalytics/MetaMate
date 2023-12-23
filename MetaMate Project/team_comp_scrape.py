@@ -27,8 +27,8 @@ def scrape_game(url):
 
     # Find all img tags with the class name "champion_icon_medium"
     ban_tags = driver.find_elements(By.CLASS_NAME, "champion_icon_medium")
-    new_ban_tags_from_website = driver.find_elements(By.CLASS_NAME, "champion_icon_medium rounded-circle")
-
+    win_tag = driver.find_elements(By.CLASS_NAME, "text_victory")
+    lose_tag = driver.find_elements(By.CLASS_NAME, "text_defeat")
     # Lists to store champion names for ban and pick
     ban_champions = []
     pick_champions = []
@@ -45,19 +45,30 @@ def scrape_game(url):
             champion_name = src.split("/")[-1].split(".")[0]
             # print("Pick Champion Name:", champion_name)
             pick_champions.append(champion_name)
+    result_tags = driver.find_elements(By.XPATH, '//h1[@class="text_victory" or @class="text_defeat"]')
+
+    # Extract text from each element
+    results = [tag.text for tag in result_tags]
+    
+    # Map the results to 1 for WIN and 0 for LOSS
+    outcomes = [1 if result == 'WIN' else 0 for result in results]
+
+
     # Create a DataFrame
     df = pd.DataFrame({"Ban": [ban_champions[i:i+5] for i in range(0, len(ban_champions), 5)],
-                       "Pick": [pick_champions[i:i+5] for i in range(0, len(pick_champions), 5)]})
+                       "Pick": [pick_champions[i:i+5] for i in range(0, len(pick_champions), 5)],
+                       "Outcome": outcomes})
+
 
     # Print the DataFrame
-
+    #print(df)
     # Quit the driver
     driver.quit()
     
     return df
 
 # # Set the URL
-# url = "https://gol.gg/tournament/tournament-matchlist/Worlds%20Main%20Event%202023/"
+# url = "https://gol.gg/tournament/tournament-matchlist/Worlds%20Play-In%202023/"
 
 # # Set the path to the uBlock Origin extension if needed
 # ublock_path = r"C:\Users\Harry Trinh\uBlock-Origin.crx"
@@ -72,7 +83,7 @@ def scrape_game(url):
 # # Load the page
 # driver.get(url)
 
-# # List of game URLs
+# # # List of game URLs
 game_urls = ["https://gol.gg/game/stats/53622/page-summary/",
              "https://gol.gg/game/stats/53618/page-summary/",
              "https://gol.gg/game/stats/53613/page-summary/",
@@ -118,7 +129,7 @@ for game_url in game_urls:
 final_df = pd.concat(dfs, axis=0, ignore_index=True)
 
 # Print the final DataFrame
-print(final_df)
+#print(final_df)
 
 # save to csv file
 final_df.to_csv(r"C:\Users\Harry Trinh\Documents\GitHub\MetaMate\MetaMate Project\World23_MainEvents_comp.csv",index=False)
