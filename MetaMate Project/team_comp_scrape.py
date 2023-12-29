@@ -67,55 +67,38 @@ def scrape_game(url):
     
     return df
 
-# # Set the URL
-# url = "https://gol.gg/tournament/tournament-matchlist/Worlds%20Play-In%202023/"
+# Set the URL
+url = "https://gol.gg/tournament/tournament-matchlist/LPL%20Summer%202023/"
 
-# # Set the path to the uBlock Origin extension if needed
-# ublock_path = r"C:\Users\Harry Trinh\uBlock-Origin.crx"
+# Set the path to the uBlock Origin extension if needed
+ublock_path = r"C:\Users\Harry Trinh\uBlock-Origin.crx"
 
-# # Configure Chrome options and add the uBlock Origin extension
-# chrome_options = Options()
-# chrome_options.add_extension(ublock_path)
+# Configure Chrome options and add the uBlock Origin extension
+chrome_options = Options()
+chrome_options.add_extension(ublock_path)
 
-# # Initialize the Chrome driver with options
-# driver = webdriver.Chrome(options=chrome_options)
+# Initialize the Chrome driver with options
+driver = webdriver.Chrome(options=chrome_options)
 
-# # Load the page
-# driver.get(url)
+# Load the page
+driver.get(url)
 
-# # # List of game URLs
-game_urls = ["https://gol.gg/game/stats/53622/page-summary/",
-             "https://gol.gg/game/stats/53618/page-summary/",
-             "https://gol.gg/game/stats/53613/page-summary/",
-             "https://gol.gg/game/stats/53610/page-summary/",
-             "https://gol.gg/game/stats/53605/page-summary/",
-             "https://gol.gg/game/stats/53600/page-summary/",
-             "https://gol.gg/game/stats/53595/page-summary/",
-             "https://gol.gg/game/stats/53592/page-summary/",
-             "https://gol.gg/game/stats/53589/page-summary/",
-             "https://gol.gg/game/stats/53586/page-summary/",
-             "https://gol.gg/game/stats/53584/page-summary/",
-             "https://gol.gg/game/stats/53581/page-summary/",
-             "https://gol.gg/game/stats/53578/page-summary/",
-             "https://gol.gg/game/stats/53575/page-summary/",
-             "https://gol.gg/game/stats/53572/page-summary/",
-             "https://gol.gg/game/stats/53569/page-summary/",
-             "https://gol.gg/game/stats/53567/page-summary/",
-             "https://gol.gg/game/stats/53564/page-summary/"]
+# # List of game URLs
+game_urls = []
 
-# # Find all <a> tags within <td> tags with the specified class
-# link_tags = driver.find_elements(By.CSS_SELECTOR, 'td.text-left.footable-visible.footable-first-column a')
+# Find all <a> tags within <td> tags with the specified class
+link_tags = driver.find_elements(By.CSS_SELECTOR, 'td.text-left.footable-visible.footable-first-column a')
 
-# # Extract the href attribute from each <a> tag
-# links = [link.get_attribute('href') for link in link_tags]
+# Extract the href attribute from each <a> tag
+links = [link.get_attribute('href') for link in link_tags]
 
-# # Print the extracted links
-# for link in links:
-#     print(link)
-#     game_urls.append(str(link))
+# Print the extracted links
+for link in links:
+    print(link)
+    game_urls.append(str(link))
 
-# # Quit the driver
-# driver.quit()
+# Quit the driver
+driver.quit()
 
 # Scrape each game
 dfs = []
@@ -132,4 +115,4 @@ final_df = pd.concat(dfs, axis=0, ignore_index=True)
 #print(final_df)
 
 # save to csv file
-final_df.to_csv(r"C:\Users\Harry Trinh\Documents\GitHub\MetaMate\MetaMate Project\World23_MainEvents_comp.csv",index=False)
+final_df.to_csv(r"C:\Users\Harry Trinh\Documents\GitHub\MetaMate\MetaMate Project\LPL23_Summer_comp.csv",index=False)

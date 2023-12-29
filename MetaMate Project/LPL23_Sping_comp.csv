@@ -1,0 +1,659 @@
+Ban,Pick,Outcome
+"['Jax', 'LeBlanc', 'Nidalee', 'Nautilus', 'Thresh']","['KSante', 'Wukong', 'Annie', 'Zeri', 'Lulu']",0
+"['Lee Sin', 'Elise', 'Vi', 'Syndra', 'Gnar']","['Renekton', 'Viego', 'Gragas', 'Jinx', 'Blitzcrank']",1
+"['Nidalee', 'Viego', 'Blitzcrank', 'Jax', 'Zeri']","['Gnar', 'Sejuani', 'LeBlanc', 'Xayah', 'RenataGlasc']",1
+"['Lee Sin', 'Elise', 'Syndra', 'Nautilus', 'Leona']","['Renekton', 'Vi', 'Ahri', 'Twitch', 'Rakan']",0
+"['Nidalee', 'Viego', 'Jax', 'Renekton', 'Twitch']","['Gnar', 'Sejuani', 'Vex', 'Xayah', 'Nautilus']",1
+"['Lee Sin', 'Elise', 'Kennen', 'Syndra', 'Lissandra']","['KSante', 'Vi', 'LeBlanc', 'Kaisa', 'Rakan']",0
+"['Tristana', 'Sejuani', 'Xayah', 'KSante', 'Sylas']","['Malphite', 'XinZhao', 'Syndra', 'Zeri', 'Lulu']",0
+"['LeBlanc', 'Lee Sin', 'Vi', 'Renekton', 'Jax']","['Kennen', 'Wukong', 'Akali', 'Aphelios', 'Rakan']",1
+"['Tristana', 'Sejuani', 'Vi', 'Kennen', 'KSante']","['Jax', 'Wukong', 'Ahri', 'Zeri', 'Annie']",0
+"['LeBlanc', 'Lee Sin', 'Lulu', 'Renata Glasc', 'Akali']","['Gragas', 'XinZhao', 'AurelionSol', 'Aphelios', 'Rakan']",1
+"['Jax', 'Ahri', 'Xayah', 'Thresh', 'KSante']","['Rumble', 'LeeSin', 'LeBlanc', 'Zeri', 'Nautilus']",0
+"['Cassiopeia', 'Lucian', 'Vi', 'Gnar', 'Sion']","['Gragas', 'Maokai', 'Tristana', 'Aphelios', 'Lulu']",1
+"['Vi', 'Tristana', 'Xayah', 'Yone', 'Renata Glasc']","['Gragas', 'LeeSin', 'Sylas', 'Zeri', 'Nautilus']",1
+"['Cassiopeia', 'LeBlanc', 'Lucian', 'Lulu', 'Sion']","['Jax', 'Maokai', 'Akali', 'Aphelios', 'Thresh']",0
+"['Xayah', 'Tristana', 'Maokai', 'Ahri', 'Galio']","['Renekton', 'LeeSin', 'Ryze', 'Zeri', 'Rakan']",1
+"['Cassiopeia', 'Lucian', 'Vi', 'Gnar', 'Sion']","['KSante', 'Viego', 'Syndra', 'Aphelios', 'Nautilus']",0
+"['Xin Zhao', 'Rakan', 'Zeri', 'Ahri', 'Jax']","['KSante', 'LeeSin', 'Annie', 'Aphelios', 'RenataGlasc']",1
+"['Elise', 'LeBlanc', 'Lucian', 'Syndra', 'Kennen']","['Gragas', 'Vi', 'Akali', 'Xayah', 'Ashe']",0
+"['Xin Zhao', 'Rakan', 'Zeri', 'Kennen', 'Lissandra']","['KSante', 'LeeSin', 'Syndra', 'Aphelios', 'Annie']",1
+"['Elise', 'LeBlanc', 'Lucian', 'Renata Glasc', 'Thresh']","['Gnar', 'Viego', 'Taliyah', 'Jinx', 'Nautilus']",0
+"['Akali', 'Yone', 'Tristana', 'Wukong', 'Sejuani']","['Gnar', 'Vi', 'LeBlanc', 'Jinx', 'Thresh']",1
+"['Kindred', 'Galio', 'Zeri', 'Jayce', 'Taliyah']","['Kennen', 'XinZhao', 'Sylas', 'Xayah', 'Rakan']",0
+"['Yone', 'Tristana', 'Vi', 'Kennen', 'KSante']","['Jax', 'Sejuani', 'Ryze', 'Zeri', 'Blitzcrank']",0
+"['Kindred', 'Galio', 'LeBlanc', 'Lulu', 'Taliyah']","['Rumble', 'Wukong', 'Sylas', 'Aphelios', 'Thresh']",1
+"['Yone', 'Tristana', 'Akali', 'Blitzcrank', 'Rumble']","['Kennen', 'XinZhao', 'Sylas', 'Jinx', 'Thresh']",0
+"['Kindred', 'LeBlanc', 'Vi', 'Sejuani', 'Wukong']","['Viktor', 'LeeSin', 'Vex', 'Aphelios', 'Nautilus']",1
+"['Lee Sin', 'Jayce', 'LeBlanc', 'Thresh', 'Chogath']","['Jax', 'Sejuani', 'Veigar', 'Xayah', 'Rakan']",0
+"['KSante', 'Vi', 'Renekton', 'Lucian', 'Yone']","['Kennen', 'Elise', 'Tristana', 'Aphelios', 'RenataGlasc']",1
+"['Lee Sin', 'Jayce', 'Lulu', 'Malphite', 'Renekton']","['Kennen', 'Wukong', 'Veigar', 'Zeri', 'Rakan']",0
+"['KSante', 'Sejuani', 'Tristana', 'Lucian', 'Tahm Kench']","['Chogath', 'Vi', 'LeBlanc', 'Xayah', 'RenataGlasc']",1
+"['Sejuani', 'Maokai', 'Aphelios', 'Nautilus', 'Jax']","['KSante', 'Vi', 'Taliyah', 'Lucian', 'Nami']",1
+"['Lee Sin', 'Jayce', 'Syndra', 'LeBlanc', 'Ahri']","['Sion', 'Elise', 'Tristana', 'Jinx', 'TahmKench']",0
+"['Sejuani', 'Maokai', 'Aphelios', 'Nautilus', 'Jax']","['Gwen', 'Vi', 'LeBlanc', 'Zeri', 'Leona']",1
+"['Lee Sin', 'Jayce', 'Syndra', 'Rakan', 'Lulu']","['KSante', 'Elise', 'Tristana', 'Jinx', 'TahmKench']",0
+"['LeBlanc', 'Jayce', 'Syndra', 'Ahri', 'Kennen']","['Jax', 'Wukong', 'Cassiopeia', 'Xayah', 'Annie']",0
+"['Yone', 'Tristana', 'Lee Sin', 'Blitzcrank', 'Sylas']","['Gragas', 'Vi', 'AurelionSol', 'Zeri', 'Lulu']",1
+"['Jayce', 'LeBlanc', 'Vi', 'Kennen', 'Aurelion Sol']","['KSante', 'Wukong', 'Kassadin', 'Zeri', 'Lulu']",0
+"['Yone', 'Tristana', 'Lee Sin', 'Gwen', 'Jax']","['Gnar', 'Maokai', 'Akali', 'Lucian', 'Nami']",1
+"['Lee Sin', 'Annie', 'Jayce', 'Sion', 'Kennen']","['Jax', 'Wukong', 'Sylas', 'Xayah', 'Nautilus']",0
+"['Elise', 'Nidalee', 'Sejuani', 'LeBlanc', 'Lissandra']","['KSante', 'Vi', 'Ahri', 'Kaisa', 'Rakan']",1
+"['Lee Sin', 'Annie', 'Jayce', 'Kennen', 'Sion']","['Jax', 'Wukong', 'Ryze', 'Xayah', 'Nautilus']",1
+"['Elise', 'Nidalee', 'Sejuani', 'Lissandra', 'Sylas']","['KSante', 'Vi', 'Ahri', 'Zeri', 'Rakan']",0
+"['Lee Sin', 'Annie', 'Jayce', 'Syndra', 'Kaisa']","['Jax', 'Wukong', 'Ahri', 'Xayah', 'Leona']",0
+"['Elise', 'Sejuani', 'Nidalee', 'Nautilus', 'Blitzcrank']","['Kennen', 'Vi', 'Taliyah', 'Zeri', 'Rakan']",1
+"['Vi', 'Kindred', 'Xin Zhao', 'Lulu', 'Nautilus']","['Gnar', 'Sejuani', 'Lissandra', 'Aphelios', 'Veigar']",0
+"['Maokai', 'Lucian', 'Sion', 'Renekton', 'KSante']","['Kennen', 'Wukong', 'LeBlanc', 'Zeri', 'Blitzcrank']",1
+"['Vi', 'Kindred', 'Sejuani', 'Sylas', 'Lulu']","['Malphite', 'Wukong', 'LeBlanc', 'Aphelios', 'Rakan']",0
+"['Maokai', 'Lucian', 'Sion', 'Veigar', 'Thresh']","['Kennen', 'LeeSin', 'Taliyah', 'Zeri', 'Nautilus']",1
+"['Zeri', 'Sejuani', 'Kennen', 'Lulu', 'Thresh']","['KSante', 'LeeSin', 'LeBlanc', 'Xayah', 'Rakan']",1
+"['Lucian', 'Elise', 'Veigar', 'Gnar', 'Gwen']","['Gragas', 'XinZhao', 'Lissandra', 'Aphelios', 'RenataGlasc']",0
+"['Zeri', 'Sejuani', 'Kennen', 'Galio', 'Gwen']","['Sion', 'LeeSin', 'Annie', 'Aphelios', 'Thresh']",0
+"['Lucian', 'Elise', 'LeBlanc', 'Veigar', 'Renata Glasc']","['Renekton', 'XinZhao', 'Ahri', 'Xayah', 'Rakan']",1
+"['Zeri', 'Sejuani', 'Kennen', 'Akali', 'Sion']","['Jax', 'Wukong', 'Ahri', 'Xayah', 'Nautilus']",1
+"['Lucian', 'Elise', 'LeBlanc', 'Veigar', 'Syndra']","['Renekton', 'XinZhao', 'Lissandra', 'Kaisa', 'Rakan']",0
+"['Elise', 'Zeri', 'Sejuani', 'Lulu', 'Kennen']","['KSante', 'Vi', 'Syndra', 'Xayah', 'Karma']",0
+"['Cassiopeia', 'Maokai', 'Ahri', 'Rakan', 'Sion']","['Gnar', 'LeeSin', 'Annie', 'Aphelios', 'RenataGlasc']",1
+"['Caitlyn', 'Zeri', 'Aphelios', 'Syndra', 'Gnar']","['KSante', 'LeeSin', 'Ryze', 'Lucian', 'Sona']",1
+"['Cassiopeia', 'Maokai', 'Varus', 'Sion', 'LeBlanc']","['Kennen', 'Vi', 'Ahri', 'Draven', 'Nami']",0
+"['Caitlyn', 'Zeri', 'Syndra', 'Gnar', 'KSante']","['Ornn', 'LeeSin', 'Ryze', 'Aphelios', 'Lulu']",0
+"['Cassiopeia', 'Maokai', 'Rakan', 'Sion', 'Kennen']","['Renekton', 'Vi', 'Taliyah', 'Lucian', 'Nami']",1
+"['Jayce', 'Lee Sin', 'Xayah', 'Veigar', 'Lulu']","['KSante', 'Vi', 'Ahri', 'Aphelios', 'RenataGlasc']",1
+"['Yone', 'Akali', 'Sylas', 'Rumble', 'Kennen']","['Jax', 'Sejuani', 'Galio', 'Zeri', 'Rakan']",0
+"['Jayce', 'Lee Sin', 'Vi', 'Thresh', 'Syndra']","['Kennen', 'JarvanIV', 'Kassadin', 'Aphelios', 'Nautilus']",0
+"['Akali', 'Yone', 'Sylas', 'Wukong', 'Tristana']","['Malphite', 'Maokai', 'LeBlanc', 'Jinx', 'TahmKench']",1
+"['Jayce', 'Lee Sin', 'Xayah', 'Veigar', 'Syndra']","['Kennen', 'Vi', 'Ahri', 'Aphelios', 'Rakan']",1
+"['Yone', 'Akali', 'Sylas', 'Thresh', 'Rumble']","['Malphite', 'Wukong', 'LeBlanc', 'Jinx', 'TahmKench']",0
+"['Jax', 'Sejuani', 'Maokai', 'KSante', 'Gwen']","['Kennen', 'Wukong', 'Gragas', 'Aphelios', 'Annie']",1
+"['Lee Sin', 'Jayce', 'Vi', 'LeBlanc', 'Syndra']","['Sion', 'Elise', 'Tristana', 'Zeri', 'Nautilus']",0
+"['Jax', 'Sejuani', 'Maokai', 'KSante', 'LeBlanc']","['Ornn', 'Vi', 'Syndra', 'Zeri', 'Rakan']",1
+"['Lee Sin', 'Jayce', 'Gragas', 'Ahri', 'Akali']","['Renekton', 'Wukong', 'Taliyah', 'Aphelios', 'Nautilus']",0
+"['Annie', 'Jayce', 'Lee Sin', 'Taliyah', 'Sion']","['KSante', 'Vi', 'Ahri', 'Xayah', 'Rakan']",1
+"['Sejuani', 'Elise', 'Maokai', 'Akali', 'Lissandra']","['Gwen', 'Wukong', 'LeBlanc', 'Zeri', 'Lulu']",0
+"['Annie', 'Lee Sin', 'Sion', 'Renata Glasc', 'Leona']","['KSante', 'Elise', 'Tristana', 'Xayah', 'Soraka']",1
+"['Sejuani', 'Vi', 'Maokai', 'Rakan', 'Nautilus']","['Jayce', 'Wukong', 'Gragas', 'Aphelios', 'Heimerdinger']",0
+"['Sejuani', 'Gragas', 'Maokai', 'Galio', 'Kennen']","['KSante', 'LeeSin', 'Annie', 'Lucian', 'Nami']",1
+"['Vi', 'Zeri', 'Jax', 'Fiora', 'Camille']","['Sion', 'Viego', 'Ryze', 'Aphelios', 'Nautilus']",0
+"['Lucian', 'Maokai', 'Wukong', 'Syndra', 'Annie']","['Kennen', 'Gragas', 'Jayce', 'Aphelios', 'Lulu']",0
+"['Lee Sin', 'Vi', 'Sejuani', 'Nautilus', 'Thresh']","['Sion', 'Viego', 'Galio', 'Zeri', 'Rakan']",1
+"['Gragas', 'Sion', 'Viego', 'Syndra', 'LeBlanc']","['Gwen', 'Maokai', 'Tristana', 'Lucian', 'Nami']",1
+"['Lee Sin', 'Vi', 'Sejuani', 'Jayce', 'Jax']","['KSante', 'XinZhao', 'Akali', 'Zeri', 'Lulu']",0
+"['Jayce', 'Jax', 'Vi', 'Fiora', 'Azir']","['KSante', 'Wukong', 'AurelionSol', 'Aphelios', 'Annie']",1
+"['Yone', 'Tristana', 'Lee Sin', 'Nautilus', 'Syndra']","['Gnar', 'Maokai', 'Viktor', 'Zeri', 'Lulu']",0
+"['Jayce', 'Vi', 'LeBlanc', 'Kennen', 'Fiora']","['Gragas', 'Wukong', 'Akali', 'Zeri', 'Lulu']",0
+"['Aurelion Sol', 'Yone', 'Tristana', 'Jax', 'KSante']","['Gnar', 'LeeSin', 'Syndra', 'Aphelios', 'Annie']",1
+"['Jayce', 'Vi', 'Jax', 'Fiora', 'Gnar']","['Gwen', 'Maokai', 'Tristana', 'Xayah', 'Blitzcrank']",1
+"['Yone', 'Lee Sin', 'Aurelion Sol', 'Rakan', 'Kennen']","['Akali', 'Wukong', 'Syndra', 'Aphelios', 'Annie']",0
+"['Kindred', 'Kennen', 'Gragas', 'Lulu', 'Renata Glasc']","['Jax', 'Vi', 'Taliyah', 'Aphelios', 'Leona']",0
+"['Jayce', 'Akali', 'Yone', 'Nautilus', 'Thresh']","['Fiora', 'Sejuani', 'Veigar', 'Zeri', 'Rakan']",1
+"['Kindred', 'Kennen', 'Jax', 'Veigar', 'Taliyah']","['Sylas', 'Viego', 'Gragas', 'Xayah', 'RenataGlasc']",0
+"['Jayce', 'Akali', 'Sejuani', 'Lee Sin', 'Wukong']","['Gnar', 'Vi', 'Galio', 'Zeri', 'Rakan']",1
+"['Lee Sin', 'Vi', 'Zeri', 'Xayah', 'Lucian']","['Rumble', 'Sejuani', 'Yone', 'Aphelios', 'Nautilus']",0
+"['Jax', 'Renekton', 'Viego', 'Blitzcrank', 'Draven']","['KSante', 'Elise', 'Jayce', 'Jinx', 'Thresh']",1
+"['Lee Sin', 'Zeri', 'Caitlyn', 'Lissandra', 'Syndra']","['KSante', 'Nidalee', 'LeBlanc', 'Xayah', 'Blitzcrank']",0
+"['Jax', 'Renekton', 'Rumble', 'Rakan', 'Leona']","['Akali', 'Viego', 'Gragas', 'Aphelios', 'Nautilus']",1
+"['Viego', 'Maokai', 'Varus', 'Sion', 'Jax']","['Renekton', 'Elise', 'Jayce', 'Caitlyn', 'Lux']",1
+"['Vi', 'Lee Sin', 'Kennen', 'Gnar', 'Tristana']","['KSante', 'JarvanIV', 'Ahri', 'Zeri', 'Lulu']",0
+"['Viego', 'Maokai', 'Akali', 'Sion', 'Sylas']","['Malphite', 'Sejuani', 'Tristana', 'Zeri', 'Lulu']",1
+"['Vi', 'Elise', 'Lee Sin', 'Gnar', 'KSante']","['Kennen', 'Wukong', 'Syndra', 'Aphelios', 'Annie']",0
+"['Rumble', 'Yone', 'Tristana', 'Sejuani', 'Kennen']","['Jax', 'Vi', 'Gragas', 'Zeri', 'Lulu']",1
+"['Lucian', 'Jayce', 'Lee Sin', 'Ahri', 'LeBlanc']","['Sion', 'Wukong', 'Akali', 'Aphelios', 'Nautilus']",0
+"['Yone', 'Rumble', 'Akali', 'LeBlanc', 'Nautilus']","['Vladimir', 'Wukong', 'Ahri', 'Zeri', 'Lulu']",0
+"['Jayce', 'Jax', 'Lee Sin', 'Gnar', 'Camille']","['Kennen', 'Vi', 'Sylas', 'Aphelios', 'Thresh']",1
+"['Rumble', 'Yone', 'Kennen', 'Sejuani', 'Jarvan IV']","['Sion', 'Wukong', 'Viktor', 'Aphelios', 'Annie']",1
+"['Jayce', 'Lee Sin', 'Vi', 'Jax', 'Gragas']","['Renekton', 'Maokai', 'Akali', 'Zeri', 'Lulu']",0
+"['Fiora', 'Lucian', 'Xayah', 'Renekton', 'Nautilus']","['Jax', 'Vi', 'Vex', 'Aphelios', 'Rakan']",1
+"['Lee Sin', 'Elise', 'Zeri', 'LeBlanc', 'Ahri']","['KSante', 'Sejuani', 'Yone', 'Veigar', 'Leona']",0
+"['Lucian', 'Lee Sin', 'Zeri', 'Caitlyn', 'Nautilus']","['Gwen', 'Vi', 'Ahri', 'Aphelios', 'Rakan']",1
+"['Jax', 'LeBlanc', 'Rumble', 'Kennen', 'Xayah']","['KSante', 'Elise', 'Tristana', 'Jinx', 'TahmKench']",0
+"['Sejuani', 'LeBlanc', 'Zeri', 'Jax', 'Gwen']","['Sion', 'Maokai', 'Jayce', 'Xayah', 'Leona']",1
+"['Elise', 'Gragas', 'Annie', 'Rakan', 'Renata Glasc']","['KSante', 'Vi', 'Akali', 'Aphelios', 'Nautilus']",0
+"['Sejuani', 'LeBlanc', 'Aphelios', 'Gwen', 'Akali']","['Sion', 'LeeSin', 'Annie', 'Jinx', 'Blitzcrank']",1
+"['Elise', 'Gragas', 'Jax', 'Kaisa', 'Xayah']","['Aatrox', 'XinZhao', 'Ryze', 'Zeri', 'Lulu']",0
+"['Sejuani', 'Jax', 'KSante', 'Ahri', 'Akali']","['Sion', 'Vi', 'Syndra', 'Zeri', 'Lulu']",0
+"['Lee Sin', 'Maokai', 'Cassiopeia', 'LeBlanc', 'Rumble']","['Gwen', 'Wukong', 'Ryze', 'Aphelios', 'Nautilus']",1
+"['Sejuani', 'Jax', 'Aphelios', 'KSante', 'LeBlanc']","['Sion', 'Vi', 'Cassiopeia', 'Varus', 'Karma']",1
+"['Lee Sin', 'Maokai', 'Zeri', 'Rumble', 'Nautilus']","['Gwen', 'Wukong', 'Ahri', 'Jhin', 'Heimerdinger']",0
+"['Sejuani', 'Aphelios', 'Jax', 'KSante', 'Ryze']","['Sion', 'Vi', 'Veigar', 'Zeri', 'Nautilus']",1
+"['Lee Sin', 'Maokai', 'Cassiopeia', 'LeBlanc', 'Syndra']","['Gwen', 'Wukong', 'Ahri', 'Jinx', 'Lulu']",0
+"['Lulu', 'Jax', 'Elise', 'Fiora', 'Taliyah']","['Rumble', 'Wukong', 'Ahri', 'Zeri', 'Rakan']",1
+"['Lee Sin', 'Annie', 'Lucian', 'LeBlanc', 'Galio']","['KSante', 'Vi', 'Veigar', 'Aphelios', 'Thresh']",0
+"['Jax', 'Lulu', 'Elise', 'Fiora', 'Taliyah']","['Renekton', 'Wukong', 'LeBlanc', 'Aphelios', 'RenataGlasc']",0
+"['Lee Sin', 'Annie', 'Zeri', 'Rumble', 'Veigar']","['KSante', 'Vi', 'Syndra', 'Xayah', 'Rakan']",1
+"['Syndra', 'Jax', 'Lee Sin', 'Lissandra', 'Taliyah']","['Rumble', 'Wukong', 'Ahri', 'Kaisa', 'Ashe']",0
+"['Zeri', 'Rakan', 'Annie', 'Nautilus', 'Draven']","['Camille', 'Vi', 'Galio', 'Lucian', 'Nami']",1
+"['LeBlanc', 'Lee Sin', 'Vi', 'Akali', 'Renata Glasc']","['Gwen', 'Elise', 'Tristana', 'Aphelios', 'Nautilus']",1
+"['Gragas', 'Sejuani', 'Jayce', 'Kennen', 'Renekton']","['KSante', 'Wukong', 'Annie', 'Zeri', 'Braum']",0
+"['LeBlanc', 'Lee Sin', 'Vi', 'Akali', 'Renekton']","['KSante', 'Elise', 'Tristana', 'Aphelios', 'Alistar']",0
+"['Gragas', 'Jayce', 'Sejuani', 'Kennen', 'Heimerdinger']","['Olaf', 'Wukong', 'Annie', 'Zeri', 'Nautilus']",1
+"['LeBlanc', 'Lee Sin', 'Annie', 'Lulu', 'Renata Glasc']","['Kennen', 'Vi', 'Akali', 'Aphelios', 'Leona']",1
+"['Gragas', 'Jayce', 'Sejuani', 'Taliyah', 'Ahri']","['KSante', 'Wukong', 'AurelionSol', 'Zeri', 'Nautilus']",0
+"['Jax', 'Fiora', 'Lucian', 'Poppy', 'Camille']","['Renekton', 'JarvanIV', 'Akali', 'Aphelios', 'Thresh']",0
+"['Zeri', 'Lulu', 'Sejuani', 'Sion', 'Gwen']","['KSante', 'LeeSin', 'Syndra', 'Xayah', 'Blitzcrank']",1
+"['Jax', 'Lucian', 'Xayah', 'Nautilus', 'Blitzcrank']","['Kennen', 'Viego', 'Ahri', 'Varus', 'Annie']",1
+"['Zeri', 'Aphelios', 'Sejuani', 'Sion', 'Renekton']","['Fiora', 'Gragas', 'Jayce', 'Ziggs', 'Leona']",0
+"['Jax', 'Lucian', 'Rakan', 'Nautilus', 'Blitzcrank']","['Renekton', 'Maokai', 'Akali', 'Aphelios', 'Thresh']",1
+"['Zeri', 'Sejuani', 'Jarvan IV', 'Lulu', 'Annie']","['KSante', 'Vi', 'Syndra', 'Xayah', 'RenataGlasc']",0
+"['Sejuani', 'Lee Sin', 'Zeri', 'Lulu', 'Renata Glasc']","['Jax', 'Viego', 'Gragas', 'Xayah', 'Rakan']",1
+"['Renekton', 'Jayce', 'Maokai', 'Draven', 'Lucian']","['Kennen', 'Wukong', 'Annie', 'Aphelios', 'Nautilus']",0
+"['Sejuani', 'Lee Sin', 'Zeri', 'Lulu', 'Renata Glasc']","['KSante', 'Viego', 'Gragas', 'Xayah', 'Blitzcrank']",1
+"['Renekton', 'Jax', 'Yone', 'Rakan', 'Gwen']","['Gnar', 'Maokai', 'Jayce', 'Aphelios', 'Thresh']",0
+"['KSante', 'Gragas', 'Sejuani', 'Ahri', 'Sion']","['Gnar', 'Kindred', 'Galio', 'Aphelios', 'Leona']",1
+"['Jax', 'Annie', 'Zeri', 'Nautilus', 'Blitzcrank']","['Jayce', 'Vi', 'Cassiopeia', 'Varus', 'Ashe']",0
+"['KSante', 'Sejuani', 'Gragas', 'Wukong', 'Sion']","['Gnar', 'Vi', 'Veigar', 'Aphelios', 'Thresh']",1
+"['Jax', 'Kindred', 'Galio', 'Ahri', 'Taliyah']","['Renekton', 'LeeSin', 'Annie', 'Zeri', 'Lulu']",0
+"['Akali', 'Yone', 'Sylas', 'Nautilus', 'Aphelios']","['Gnar', 'Vi', 'Ahri', 'Zeri', 'Lulu']",1
+"['Lee Sin', 'Syndra', 'Jayce', 'Sion', 'LeBlanc']","['KSante', 'Gragas', 'Tristana', 'Varus', 'RenataGlasc']",0
+"['Akali', 'Yone', 'Sylas', 'Darius', 'Ahri']","['KSante', 'Vi', 'Taliyah', 'Zeri', 'RenataGlasc']",1
+"['Lee Sin', 'Syndra', 'Jayce', 'Lissandra', 'Gnar']","['Sion', 'Wukong', 'Viktor', 'Aphelios', 'Lulu']",0
+"['Caitlyn', 'Gragas', 'Renekton', 'Taliyah', 'Sion']","['Jax', 'LeeSin', 'Lissandra', 'Draven', 'Nautilus']",1
+"['Ryze', 'Annie', 'Sejuani', 'Fiora', 'Azir']","['KSante', 'Vi', 'Ahri', 'Lucian', 'Nami']",0
+"['Caitlyn', 'Lucian', 'Sion', 'LeBlanc', 'Ahri']","['Renekton', 'Wukong', 'Gragas', 'Aphelios', 'Thresh']",0
+"['Jax', 'Jayce', 'Annie', 'Nautilus', 'Fiora']","['Ornn', 'LeeSin', 'Syndra', 'Zeri', 'Lulu']",1
+"['Caitlyn', 'Gragas', 'Zeri', 'Sion', 'Ornn']","['Jayce', 'Sejuani', 'Azir', 'Xayah', 'Rakan']",0
+"['Jax', 'Annie', 'Lee Sin', 'Maokai', 'Elise']","['KSante', 'Vi', 'Ahri', 'Aphelios', 'RenataGlasc']",1
+"['Jax', 'Jayce', 'Renekton', 'LeBlanc', 'Viego']","['KSante', 'Maokai', 'Yone', 'Veigar', 'Nautilus']",1
+"['Fiora', 'Elise', 'Zeri', 'Lucian', 'Xayah']","['Sejuani', 'Wukong', 'Annie', 'Aphelios', 'Morgana']",0
+"['Jax', 'Jayce', 'Renekton', 'Gwen', 'Ashe']","['KSante', 'Wukong', 'Annie', 'Zeri', 'RenataGlasc']",1
+"['Fiora', 'Yone', 'Lee Sin', 'Akali', 'Lulu']","['Gnar', 'Vi', 'Syndra', 'Aphelios', 'Nautilus']",0
+"['Caitlyn', 'Elise', 'Maokai', 'Vi', 'Jarvan IV']","['Jax', 'Gragas', 'Jayce', 'Aphelios', 'Annie']",0
+"['Ashe', 'Lee Sin', 'Varus', 'Sejuani', 'Ryze']","['Kennen', 'Wukong', 'Syndra', 'Zeri', 'Lulu']",1
+"['Caitlyn', 'Maokai', 'Lee Sin', 'Renekton', 'Syndra']","['KSante', 'Viego', 'Veigar', 'Aphelios', 'Thresh']",0
+"['Ashe', 'Jax', 'Jayce', 'Ryze', 'LeBlanc']","['Fiora', 'Vi', 'Ahri', 'Zeri', 'Lulu']",1
+"['Jax', 'Ashe', 'Wukong', 'Aphelios', 'Sion']","['Jayce', 'Poppy', 'Ryze', 'Zeri', 'Lulu']",0
+"['Elise', 'Sejuani', 'Lee Sin', 'Vi', 'Maokai']","['Gragas', 'Viego', 'Annie', 'Kaisa', 'Nautilus']",1
+"['Annie', 'Wukong', 'Gragas', 'Jax', 'Ashe']","['KSante', 'Vi', 'Syndra', 'Xayah', 'Rakan']",1
+"['Sejuani', 'Lee Sin', 'Jayce', 'Zeri', 'Aphelios']","['Renekton', 'Elise', 'Azir', 'Varus', 'Heimerdinger']",0
+"['Jax', 'Wukong', 'Annie', 'Lulu', 'Nautilus']","['KSante', 'Viego', 'Gragas', 'Xayah', 'Rakan']",0
+"['Elise', 'Sejuani', 'Lee Sin', 'Syndra', 'Gwen']","['Sion', 'Maokai', 'Jayce', 'Aphelios', 'Ashe']",1
+"['KSante', 'Jax', 'Varus', 'Sion', 'Tristana']","['Renekton', 'Sejuani', 'Ryze', 'Lucian', 'Nami']",0
+"['Jayce', 'Lee Sin', 'Ashe', 'Sylas', 'Akali']","['Gragas', 'Maokai', 'Yone', 'Aphelios', 'Nautilus']",1
+"['KSante', 'Jax', 'Aphelios', 'Sion', 'Renata Glasc']","['Renekton', 'Sejuani', 'Yone', 'Varus', 'Heimerdinger']",0
+"['Jayce', 'Lee Sin', 'Ashe', 'Caitlyn', 'Lucian']","['Gnar', 'Maokai', 'Akali', 'Zeri', 'Lulu']",1
+"['Lee Sin', 'Aphelios', 'Vi', 'Renekton', 'Sion']","['Fiora', 'Viego', 'Gragas', 'Lucian', 'Nami']",0
+"['Jax', 'Sejuani', 'Maokai', 'Poppy', 'Galio']","['KSante', 'XinZhao', 'Ryze', 'Zeri', 'Lulu']",1
+"['Zeri', 'Aphelios', 'Karma', 'Sion', 'KSante']","['Irelia', 'Gragas', 'Renekton', 'Varus', 'Nautilus']",0
+"['Jax', 'Sejuani', 'Sylas', 'Fiora', 'Galio']","['Gnar', 'Maokai', 'Cassiopeia', 'Lucian', 'Nami']",1
+"['Akali', 'Wukong', 'Aphelios', 'Ashe', 'Renata Glasc']","['Renekton', 'Sejuani', 'Sylas', 'Kaisa', 'Nautilus']",0
+"['Fiora', 'Aurelion Sol', 'Zeri', 'Lucian', 'Caitlyn']","['KSante', 'Gragas', 'Yone', 'Varus', 'Rakan']",1
+"['Akali', 'Yone', 'Aphelios', 'Gragas', 'Poppy']","['Sion', 'Wukong', 'Kassadin', 'Xayah', 'Rakan']",1
+"['Fiora', 'Aurelion Sol', 'Elise', 'Ahri', 'Syndra']","['KSante', 'Sejuani', 'Sylas', 'Zeri', 'Lulu']",0
+"['Akali', 'Yone', 'Aphelios', 'LeBlanc', 'Sylas']","['Sion', 'Vi', 'Annie', 'Xayah', 'Rakan']",0
+"['Fiora', 'Aurelion Sol', 'Zeri', 'Mordekaiser', 'Kassadin']","['KSante', 'Wukong', 'Ahri', 'Varus', 'RenataGlasc']",1
+"['Kindred', 'Fiora', 'Annie', 'Lulu', 'Nautilus']","['Sion', 'Sejuani', 'Akali', 'Lucian', 'Nami']",0
+"['Ashe', 'Jayce', 'Caitlyn', 'Renekton', 'Yone']","['Jax', 'Vi', 'Ahri', 'Aphelios', 'Thresh']",1
+"['Kindred', 'Ahri', 'Jax', 'Syndra', 'Rakan']","['KSante', 'Maokai', 'Tristana', 'Aphelios', 'Annie']",0
+"['Ashe', 'Jayce', 'Caitlyn', 'Renekton', 'Kennen']","['Fiora', 'Sejuani', 'Viktor', 'Xayah', 'Nautilus']",1
+"['Sejuani', 'KSante', 'Gragas', 'Cassiopeia', 'Sion']","['Renekton', 'Vi', 'Syndra', 'Aphelios', 'Annie']",1
+"['Ashe', 'Caitlyn', 'Lee Sin', 'Nautilus', 'Akali']","['Ornn', 'Wukong', 'Ahri', 'Zeri', 'Lulu']",0
+"['Sejuani', 'KSante', 'Gragas', 'Gwen', 'Xayah']","['Sion', 'Vi', 'Ahri', 'Varus', 'Ashe']",1
+"['Zeri', 'Aphelios', 'Lucian', 'Cassiopeia', 'Karma']","['Jayce', 'Wukong', 'Annie', 'Chogath', 'Rakan']",0
+"['Varus', 'Jax', 'Ashe', 'Yone', 'Fiora']","['Renekton', 'Maokai', 'Jayce', 'KogMaw', 'Nami']",1
+"['Zeri', 'Caitlyn', 'Aphelios', 'Xayah', 'Ezreal']","['KSante', 'Sejuani', 'Akali', 'Lucian', 'Nautilus']",0
+"['Varus', 'Jax', 'Nautilus', 'Xayah', 'Nami']","['Sion', 'Sejuani', 'Azir', 'Kaisa', 'Ashe']",0
+"['Caitlyn', 'Zeri', 'Aphelios', 'Fiora', 'Gwen']","['KSante', 'Maokai', 'Jayce', 'Jhin', 'Heimerdinger']",1
+"['Jax', 'KSante', 'Ashe', 'Nautilus', 'Karma']","['Gnar', 'Maokai', 'Jayce', 'Aphelios', 'Annie']",1
+"['Caitlyn', 'Zeri', 'Lee Sin', 'Thresh', 'Lulu']","['Renekton', 'JarvanIV', 'LeBlanc', 'Varus', 'Soraka']",0
+"['Vi', 'Lucian', 'Gragas', 'Yone', 'Akali']","['Jax', 'LeeSin', 'Syndra', 'Xayah', 'Annie']",0
+"['Zeri', 'Sejuani', 'Caitlyn', 'Rakan', 'Sylas']","['Renekton', 'Maokai', 'Ryze', 'Aphelios', 'Lulu']",1
+"['Vi', 'Lucian', 'Gragas', 'LeBlanc', 'Cassiopeia']","['KSante', 'Maokai', 'Ryze', 'Caitlyn', 'Lux']",0
+"['Zeri', 'Sejuani', 'Lulu', 'Syndra', 'Jax']","['Sion', 'LeeSin', 'Sylas', 'Aphelios', 'Annie']",1
+"['Jax', 'Lee Sin', 'Varus', 'LeBlanc', 'Elise']","['Rumble', 'Wukong', 'Yone', 'Lucian', 'Nami']",0
+"['Sejuani', 'Aphelios', 'Akali', 'Nautilus', 'Xayah']","['Sett', 'Maokai', 'Jayce', 'Zeri', 'Annie']",1
+"['Lee Sin', 'Jax', 'Jayce', 'Poppy', 'Viego']","['Sion', 'Wukong', 'Sylas', 'Xayah', 'Rakan']",1
+"['Akali', 'Sejuani', 'Aphelios', 'LeBlanc', 'Rumble']","['KSante', 'JarvanIV', 'Ryze', 'Zeri', 'Annie']",0
+"['Lee Sin', 'Jax', 'Varus', 'Kalista', 'Ziggs']","['KSante', 'JarvanIV', 'Sylas', 'Zeri', 'Lulu']",1
+"['Sejuani', 'Akali', 'Aphelios', 'Vi', 'Wukong']","['Camille', 'Maokai', 'Jayce', 'Ezreal', 'Ashe']",0
+"['Jax', 'Ashe', 'Sejuani', 'Lulu', 'LeBlanc']","['Sion', 'Vi', 'Ryze', 'Varus', 'Karma']",0
+"['Lucian', 'Jayce', 'Renekton', 'Nautilus', 'Heimerdinger']","['Gwen', 'LeeSin', 'Gragas', 'Zeri', 'Annie']",1
+"['Jax', 'Ashe', 'Sejuani', 'Gwen', 'Fiora']","['KSante', 'LeeSin', 'Orianna', 'Xayah', 'Rakan']",0
+"['Lucian', 'Jayce', 'Renekton', 'LeBlanc', 'Syndra']","['Camille', 'Wukong', 'Ryze', 'Aphelios', 'Annie']",1
+"['LeBlanc', 'Ashe', 'Lee Sin', 'Nautilus', 'Syndra']","['Renekton', 'Vi', 'Taliyah', 'Zeri', 'Lulu']",1
+"['Jayce', 'Sejuani', 'Jax', 'Akali', 'Ahri']","['KSante', 'Wukong', 'Viktor', 'Varus', 'Annie']",0
+"['Jayce', 'Elise', 'Ashe', 'Taliyah', 'Akali']","['Sion', 'LeeSin', 'Syndra', 'Aphelios', 'Annie']",0
+"['Jax', 'Wukong', 'Vi', 'Nautilus', 'Fiora']","['KSante', 'Sejuani', 'Viktor', 'Lucian', 'Nami']",1
+"['Ashe', 'Lee Sin', 'Varus', 'Akali', 'Taliyah']","['Sion', 'Elise', 'Azir', 'Caitlyn', 'Lux']",1
+"['Jax', 'Jayce', 'Zeri', 'Renekton', 'Ryze']","['Gwen', 'Sejuani', 'Syndra', 'Lucian', 'Nami']",0
+"['Caitlyn', 'Vi', 'Kindred', 'Lulu', 'Nautilus']","['Jax', 'LeeSin', 'Ryze', 'Lucian', 'Nami']",0
+"['Ashe', 'Wukong', 'Annie', 'Xayah', 'Aphelios']","['Fiora', 'Sejuani', 'Akali', 'Zeri', 'RenataGlasc']",1
+"['Vi', 'Sejuani', 'Caitlyn', 'Kindred', 'Jayce']","['Sion', 'LeeSin', 'Ryze', 'Aphelios', 'RenataGlasc']",1
+"['Ashe', 'Wukong', 'Annie', 'Thresh', 'Nautilus']","['Jax', 'Viego', 'Galio', 'Zeri', 'Lulu']",0
+"['Sejuani', 'Vi', 'Caitlyn', 'Xayah', 'Varus']","['Jax', 'XinZhao', 'Annie', 'Aphelios', 'RenataGlasc']",0
+"['Ashe', 'Lee Sin', 'Wukong', 'Twisted Fate', 'Viego']","['Kennen', 'Kindred', 'Ryze', 'Zeri', 'Blitzcrank']",1
+"['Jax', 'Renekton', 'Draven', 'Lee Sin', 'Vi']","['KSante', 'Wukong', 'Annie', 'Zeri', 'Nautilus']",1
+"['Elise', 'Jayce', 'Tristana', 'Gnar', 'Kaisa']","['Sion', 'Gragas', 'Sylas', 'Varus', 'Ashe']",0
+"['Jax', 'Renekton', 'Elise', 'Draven', 'Caitlyn']","['Gragas', 'Sejuani', 'Yone', 'Zeri', 'Lulu']",1
+"['Ashe', 'Annie', 'Vi', 'Ziggs', 'Varus']","['KSante', 'Maokai', 'Jayce', 'Xayah', 'Rakan']",0
+"['KSante', 'Caitlyn', 'Zeri', 'Nautilus', 'Nami']","['Kennen', 'LeeSin', 'Ryze', 'Aphelios', 'Annie']",0
+"['Elise', 'Ashe', 'Maokai', 'Jax', 'Renekton']","['Fiora', 'Sejuani', 'Yone', 'Xayah', 'Rakan']",1
+"['Annie', 'Yone', 'Fiora', 'Caitlyn', 'Xayah']","['Jayce', 'LeeSin', 'Gragas', 'Varus', 'Nautilus']",0
+"['Maokai', 'Ashe', 'Draven', 'Nidalee', 'Karma']","['Renekton', 'Elise', 'Tristana', 'Zeri', 'Lulu']",1
+"['Rumble', 'Sejuani', 'KSante', 'Poppy', 'Wukong']","['Renekton', 'LeeSin', 'Vex', 'Xayah', 'Rakan']",1
+"['Jayce', 'Gragas', 'Varus', 'LeBlanc', 'Syndra']","['Kennen', 'XinZhao', 'Akali', 'Aphelios', 'Annie']",0
+"['Rumble', 'Sejuani', 'KSante', 'Lulu', 'Nautilus']","['Gragas', 'Viego', 'LeBlanc', 'Xayah', 'Rakan']",0
+"['Jayce', 'Varus', 'Lee Sin', 'Renekton', 'Syndra']","['Sion', 'Wukong', 'Akali', 'Aphelios', 'RenataGlasc']",1
+"['Rumble', 'Sejuani', 'Akali', 'Vi', 'Gragas']","['Renekton', 'Wukong', 'Cassiopeia', 'Caitlyn', 'Lux']",0
+"['Jayce', 'Lee Sin', 'Varus', 'Syndra', 'Sion']","['KSante', 'Maokai', 'Yone', 'Aphelios', 'Annie']",1
+"['Zeri', 'Renekton', 'Sejuani', 'Sion', 'KSante']","['Jax', 'Poppy', 'Gragas', 'Lucian', 'Nami']",1
+"['Ashe', 'Annie', 'Maokai', 'Galio', 'Fiora']","['Kennen', 'Viego', 'Syndra', 'Aphelios', 'Lulu']",0
+"['Zeri', 'Renekton', 'Sejuani', 'Kennen', 'Gragas']","['Jax', 'Maokai', 'Sylas', 'Xayah', 'RenataGlasc']",1
+"['Annie', 'Ashe', 'Lucian', 'Heimerdinger', 'Rakan']","['KSante', 'Vi', 'Ahri', 'Aphelios', 'Thresh']",0
+"['Draven', 'Varus', 'Ashe', 'Nautilus', 'Renekton']","['Kennen', 'Maokai', 'Jayce', 'Aphelios', 'Lulu']",1
+"['Caitlyn', 'Lee Sin', 'Lucian', 'Sion', 'Thresh']","['Jax', 'Sejuani', 'Yone', 'Zeri', 'Rakan']",0
+"['Elise', 'Ashe', 'Jayce', 'Gragas', 'Gnar']","['Renekton', 'Vi', 'Taliyah', 'Zeri', 'Annie']",1
+"['Caitlyn', 'Lucian', 'Sejuani', 'Jax', 'Syndra']","['Sion', 'LeeSin', 'Ryze', 'Aphelios', 'Lulu']",0
+"['Ashe', 'Jax', 'Annie', 'Sion', 'KSante']","['Ornn', 'Sejuani', 'Akali', 'Varus', 'Nautilus']",1
+"['Draven', 'Jayce', 'Lee Sin', 'Yone', 'LeBlanc']","['Renekton', 'Elise', 'Sylas', 'Lucian', 'Nami']",0
+"['Ashe', 'Jayce', 'Annie', 'Jax', 'LeBlanc']","['Sion', 'Vi', 'Ryze', 'Lucian', 'Nami']",1
+"['Draven', 'Varus', 'Sejuani', 'Akali', 'Ahri']","['Illaoi', 'LeeSin', 'Syndra', 'Caitlyn', 'Lux']",0
+"['Jax', 'Ashe', 'Annie', 'Heimerdinger', 'Sion']","['Quinn', 'LeeSin', 'LeBlanc', 'Xayah', 'Nautilus']",1
+"['Caitlyn', 'Lucian', 'Elise', 'KSante', 'Rakan']","['Renekton', 'Viego', 'Syndra', 'Varus', 'Leona']",0
+"['Jax', 'Ashe', 'Annie', 'Heimerdinger', 'Karma']","['Gnar', 'LeeSin', 'LeBlanc', 'Xayah', 'RenataGlasc']",1
+"['Caitlyn', 'Lucian', 'Elise', 'Renekton', 'Rakan']","['KSante', 'Viego', 'Syndra', 'Varus', 'Rell']",0
+"['Sejuani', 'Elise', 'Ashe', 'Kennen', 'Renekton']","['Jax', 'Viego', 'Annie', 'Zeri', 'Lulu']",1
+"['Kindred', 'Caitlyn', 'Lucian', 'Lee Sin', 'Vi']","['Gragas', 'Wukong', 'Syndra', 'Xayah', 'Rakan']",0
+"['Sejuani', 'Elise', 'Ashe', 'Sion', 'Syndra']","['Gnar', 'Wukong', 'Gragas', 'Lucian', 'Nami']",0
+"['Kindred', 'Caitlyn', 'Zeri', 'Annie', 'Taliyah']","['Jax', 'Vi', 'Ahri', 'Varus', 'Nautilus']",1
+"['Ashe', 'Jax', 'Elise', 'Renekton', 'Karma']","['Gnar', 'Vi', 'Taliyah', 'Varus', 'RenataGlasc']",0
+"['Kindred', 'Caitlyn', 'Zeri', 'Ahri', 'LeBlanc']","['KSante', 'Sejuani', 'Yone', 'Jhin', 'Heimerdinger']",1
+"['Fiora', 'Sejuani', 'Ashe', 'Rakan', 'Renata Glasc']","['Sion', 'Vi', 'Annie', 'Draven', 'Nautilus']",0
+"['Elise', 'Nidalee', 'Jax', 'Wukong', 'Lee Sin']","['Gwen', 'Gragas', 'Renekton', 'Xayah', 'Braum']",1
+"['Jax', 'Sejuani', 'Gragas', 'Lucian', 'Zeri']","['Gwen', 'LeeSin', 'LeBlanc', 'Varus', 'Karma']",0
+"['Nidalee', 'Elise', 'Renekton', 'Xayah', 'Caitlyn']","['Camille', 'Poppy', 'Galio', 'Kaisa', 'Heimerdinger']",1
+"['Lee Sin', 'Cassiopeia', 'Vi', 'Karma', 'Gwen']","['KSante', 'Gragas', 'Jayce', 'Varus', 'Heimerdinger']",1
+"['Annie', 'Ashe', 'Sejuani', 'Renekton', 'Elise']","['Sion', 'Maokai', 'Irelia', 'Jhin', 'MissFortune']",0
+"['Lee Sin', 'Vi', 'Varus', 'Gwen', 'Cassiopeia']","['KSante', 'Nidalee', 'Kassadin', 'Caitlyn', 'Lux']",1
+"['Ashe', 'Annie', 'Jayce', 'Tristana']","['Renekton', 'Sejuani', 'LeBlanc', 'Jhin', 'Karma']",0
+"['Ashe', 'Jayce', 'Elise', 'Kassadin', 'Gwen']","['Sion', 'Wukong', 'Annie', 'Lucian', 'Nami']",0
+"['Caitlyn', 'Lee Sin', 'Sejuani', 'Fiora', 'Aurelion Sol']","['Gragas', 'Vi', 'Veigar', 'Zeri', 'Lulu']",1
+"['Ashe', 'Jayce', 'Elise', 'Kassadin', 'Veigar']","['Mordekaiser', 'Wukong', 'Annie', 'Zeri', 'Lulu']",1
+"['Caitlyn', 'Lee Sin', 'Sejuani', 'Aurelion Sol', 'Fiora']","['Gwen', 'Vi', 'Gragas', 'Aphelios', 'Nautilus']",0
+"['Ashe', 'Jayce', 'Elise', 'Jax', 'Heimerdinger']","['Fiora', 'Sejuani', 'Yone', 'Aphelios', 'Rakan']",0
+"['Caitlyn', 'Lucian', 'Zeri', 'Ziggs', 'Xayah']","['Gnar', 'Wukong', 'Akali', 'Varus', 'RenataGlasc']",1
+"['Jax', 'Sejuani', 'Elise', 'Ziggs', 'Ashe']","['KSante', 'Vi', 'Syndra', 'Varus', 'Annie']",1
+"['Caitlyn', 'Lee Sin', 'Maokai', 'Quinn', 'Sion']","['Renekton', 'Nidalee', 'Jayce', 'Draven', 'Nautilus']",0
+"['Jax', 'Sejuani', 'Elise', 'Nautilus', 'Pyke']","['KSante', 'Vi', 'Syndra', 'Varus', 'Ashe']",1
+"['Caitlyn', 'Lee Sin', 'Maokai', 'Annie', 'Heimerdinger']","['Fiora', 'Nidalee', 'Jayce', 'Draven', 'Kalista']",0
+"['Jax', 'Lee Sin', 'Maokai', 'Jayce', 'Ashe']","['KSante', 'Wukong', 'Akali', 'Zeri', 'Lulu']",1
+"['Rumble', 'Annie', 'Sejuani', 'Samira', 'Kaisa']","['Renekton', 'XinZhao', 'Ryze', 'Varus', 'Karma']",0
+"['Jax', 'Lee Sin', 'Jayce', 'Renekton', 'Gwen']","['Lillia', 'Sejuani', 'Yone', 'Samira', 'Rell']",0
+"['Akali', 'Annie', 'Maokai', 'Nautilus', 'Rumble']","['Sion', 'Elise', 'Tristana', 'Caitlyn', 'Lux']",1
+"['Jax', 'Lee Sin', 'Elise', 'Jayce', 'Sion']","['KSante', 'Wukong', 'Sylas', 'Aphelios', 'Annie']",1
+"['Akali', 'Sejuani', 'Maokai', 'Rumble', 'Viktor']","['Fiora', 'Vi', 'Ryze', 'Zeri', 'Lulu']",0
+"['Annie', 'Lee Sin', 'Vi', 'Gwen', 'Sion']","['Yone', 'Sejuani', 'Jayce', 'Ziggs', 'Leona']",1
+"['Maokai', 'Elise', 'Jax', 'Renekton', 'Nautilus']","['Gnar', 'Wukong', 'Cassiopeia', 'Varus', 'Twitch']",0
+"['Annie', 'Vi', 'Varus', 'Sion', 'Caitlyn']","['Renekton', 'LeeSin', 'Syndra', 'Draven', 'Pyke']",1
+"['Maokai', 'Sejuani', 'Elise', 'Nautilus', 'Leona']","['Jayce', 'Gragas', 'Irelia', 'Aphelios', 'Ashe']",0
+"['Elise', 'Annie', 'LeBlanc', 'Akali', 'Gwen']","['Sion', 'Wukong', 'Syndra', 'Lucian', 'Nami']",1
+"['Caitlyn', 'Maokai', 'Varus', 'Azir', 'Renekton']","['Jax', 'LeeSin', 'Galio', 'Draven', 'Nautilus']",0
+"['Maokai', 'Elise', 'Lucian', 'Ezreal', 'Heimerdinger']","['Ornn', 'Wukong', 'Lissandra', 'Draven', 'Shen']",0
+"['Caitlyn', 'Syndra', 'Varus', 'Sion', 'Nautilus']","['Jax', 'LeeSin', 'LeBlanc', 'Ziggs', 'Leona']",1
+"['Elise', 'LeBlanc', 'Annie', 'Galio', 'Zeri']","['Fiora', 'Vi', 'Syndra', 'Varus', 'Heimerdinger']",0
+"['Caitlyn', 'Maokai', 'Lucian', 'Sion']","['Jax', 'LeeSin', 'Ryze', 'Kaisa', 'Ashe']",1
+"['Nidalee', 'Kindred', 'Elise', 'Azir', 'Galio']","['Kennen', 'LeeSin', 'Ryze', 'Lucian', 'Nami']",0
+"['Sejuani', 'Maokai', 'Ashe', 'Varus', 'Nautilus']","['Jax', 'Vi', 'Syndra', 'Caitlyn', 'Lux']",1
+"['Nidalee', 'Kindred', 'Elise', 'Azir', 'Syndra']","['Gragas', 'JarvanIV', 'Sylas', 'Caitlyn', 'Annie']",0
+"['Sejuani', 'Maokai', 'Ashe', 'Ryze', 'Braum']","['Jax', 'Vi', 'Taliyah', 'Varus', 'Nautilus']",1
+"['Draven', 'Jax', 'Renekton', 'Gwen', 'Annie']","['Mordekaiser', 'Elise', 'Jayce', 'Caitlyn', 'Heimerdinger']",1
+"['Maokai', 'Ashe', 'Varus', 'Fiora', 'Lux']","['Sion', 'LeeSin', 'Syndra', 'Jinx', 'Nautilus']",0
+"['Draven', 'Jax', 'Nidalee', 'Lucian', 'Zeri']","['Gnar', 'Gragas', 'Jayce', 'Varus', 'Leona']",0
+"['Maokai', 'Fiora', 'Ashe', 'Sion', 'Karma']","['Renekton', 'Elise', 'Annie', 'Caitlyn', 'Lux']",1
+"['Draven', 'Nidalee', 'Elise', 'Renekton', 'Nautilus']","['Gnar', 'Wukong', 'Syndra', 'Zeri', 'Annie']",1
+"['Maokai', 'Ashe', 'Jax', 'Akali', 'LeBlanc']","['Camille', 'Sejuani', 'Yone', 'Varus', 'Heimerdinger']",0
+"['Varus', 'Draven', 'Ryze', 'Jax', 'Fiora']","['KSante', 'Elise', 'Jayce', 'Jhin', 'Annie']",0
+"['Zeri', 'Caitlyn', 'Lucian', 'Leona', 'Sion']","['Camille', 'Maokai', 'Viktor', 'Ezreal', 'Ashe']",1
+"['Draven', 'Maokai', 'Varus', 'Fiora', 'Camille']","['KSante', 'Elise', 'Gragas', 'Vayne', 'Ashe']",0
+"['Lucian', 'Caitlyn', 'Zeri', 'Tristana', 'Sivir']","['Jax', 'Sejuani', 'Jayce', 'Ziggs', 'Nautilus']",1
+"['Jax', 'Maokai', 'Lucian', 'Galio', 'Irelia']","['Rumble', 'Sejuani', 'Yone', 'Xayah', 'Rakan']",1
+"['Samira', 'Zeri', 'Ashe', 'Ezreal', 'Varus']","['Gwen', 'LeeSin', 'Sylas', 'Draven', 'Annie']",0
+"['Jax', 'Maokai', 'Lucian', 'Camille', 'Lulu']","['Darius', 'Sejuani', 'Yone', 'Aphelios', 'Annie']",1
+"['Samira', 'Rumble', 'Vi', 'Renekton', 'Xayah']","['Fiora', 'LeeSin', 'Galio', 'Zeri', 'Rakan']",0
+"['Draven', 'Nidalee', 'Elise', 'Gnar', 'Gragas']","['Jax', 'Wukong', 'Sylas', 'Jhin', 'Annie']",1
+"['Maokai', 'Caitlyn', 'Lee Sin', 'Zeri', 'Lucian']","['Sion', 'Sejuani', 'Yone', 'Varus', 'Nautilus']",0
+"['Draven', 'Nidalee', 'Elise', 'Gnar', 'Gragas']","['Jax', 'Wukong', 'Sylas', 'Jhin', 'Annie']",0
+"['Maokai', 'Caitlyn', 'Lee Sin', 'Zeri', 'Lucian']","['Sion', 'Sejuani', 'Yone', 'Varus', 'Ashe']",1
+"['Draven', 'Nidalee', 'Yone', 'Sion', 'Gnar']","['Jax', 'Sejuani', 'Syndra', 'Jhin', 'Annie']",0
+"['Maokai', 'Caitlyn', 'Lee Sin', 'Zeri', 'Lucian']","['Gragas', 'Elise', 'Jayce', 'Varus', 'Nautilus']",1
+"['Sejuani', 'Jayce', 'Draven', 'KSante', 'Tristana']","['Gragas', 'LeeSin', 'Annie', 'Varus', 'Nautilus']",1
+"['Maokai', 'Ashe', 'Caitlyn', 'Yone', 'Jax']","['Sion', 'Elise', 'Azir', 'Lucian', 'Nami']",0
+"['Maokai', 'Jayce', 'Sejuani', 'KSante', 'Tristana']","['Gangplank', 'LeeSin', 'Syndra', 'Varus', 'RenataGlasc']",1
+"['Gragas', 'Annie', 'Ashe', 'Sion', 'Jax']","['Gnar', 'Elise', 'Viktor', 'Draven', 'Nautilus']",0
+"['Akali', 'Elise', 'Jayce', 'Lux', 'Kennen']","['Jax', 'Wukong', 'Ryze', 'Zeri', 'Ashe']",0
+"['Sejuani', 'Draven', 'Varus', 'Vi', 'Lee Sin']","['Renekton', 'Maokai', 'Azir', 'Caitlyn', 'Annie']",1
+"['Jayce', 'Elise', 'Ashe', 'Akali', 'Azir']","['Sion', 'Vi', 'Taliyah', 'Caitlyn', 'Annie']",0
+"['Sejuani', 'Jax', 'Ryze', 'Sylas', 'Syndra']","['Renekton', 'Maokai', 'Viktor', 'Lucian', 'Nami']",1
+"['Jayce', 'Yone', 'Maokai', 'Renekton', 'Nautilus']","['Sion', 'Wukong', 'Azir', 'Zeri', 'Ashe']",1
+"['Caitlyn', 'Annie', 'Jax', 'Akali', 'Viktor']","['Gwen', 'Elise', 'Tristana', 'Varus', 'Leona']",0
+"['Elise', 'Sejuani', 'Ashe', 'Heimerdinger', 'Gwen']","['Sion', 'Maokai', 'Jayce', 'Zeri', 'Nautilus']",1
+"['Caitlyn', 'Annie', 'Lucian', 'Lulu', 'Jax']","['KSante', 'Vi', 'Cassiopeia', 'Varus', 'Braum']",0
+"['Jax', 'Varus', 'Ashe', 'LeBlanc', 'Ryze']","['Gnar', 'Vi', 'Azir', 'Zeri', 'Lulu']",0
+"['Maokai', 'Caitlyn', 'Annie', 'Syndra', 'Gwen']","['Sion', 'LeeSin', 'Sylas', 'Draven', 'Nautilus']",1
+"['Jax', 'Draven', 'Caitlyn', 'Sion', 'Ryze']","['Jayce', 'Vi', 'LeBlanc', 'Zeri', 'Lulu']",1
+"['Maokai', 'Annie', 'Varus', 'Syndra', 'Azir']","['Renekton', 'LeeSin', 'Lissandra', 'Lucian', 'Nami']",0
+"['Jax', 'Draven', 'Caitlyn', 'Jhin', 'Kaisa']","['Chogath', 'LeeSin', 'Cassiopeia', 'Varus', 'Karma']",1
+"['Maokai', 'Zeri', 'Annie', 'LeBlanc', 'Sylas']","['Sion', 'Vi', 'Ahri', 'Ezreal', 'Ashe']",0
+"['Caitlyn', 'Draven', 'Zeri', 'Sylas', 'Kaisa']","['Sion', 'Wukong', 'LeBlanc', 'Varus', 'Annie']",1
+"['Maokai', 'Elise', 'Azir', 'Leona', 'Galio']","['Jax', 'Sejuani', 'Ryze', 'Kalista', 'Ashe']",0
+"['Caitlyn', 'Draven', 'Zeri', 'Jax', 'Gwen']","['Sion', 'Wukong', 'Ryze', 'Lucian', 'Nami']",0
+"['Maokai', 'Elise', 'Ashe', 'LeBlanc', 'Akali']","['Renekton', 'LeeSin', 'Syndra', 'Aphelios', 'Lulu']",1
+"['Caitlyn', 'Maokai', 'Zeri', 'Sylas', 'Syndra']","['Kennen', 'Wukong', 'Ryze', 'Varus', 'Ashe']",0
+"['Annie', 'Elise', 'LeBlanc', 'Sion', 'Akali']","['Jax', 'LeeSin', 'Galio', 'Draven', 'Nautilus']",1
+"['Lucian', 'Sejuani', 'Zeri', 'Annie', 'Syndra']","['Sion', 'Elise', 'Jayce', 'Ashe', 'Braum']",1
+"['Jax', 'Maokai', 'Varus', 'Fiora', 'Leona']","['Renekton', 'Vi', 'Azir', 'Draven', 'Nautilus']",0
+"['Maokai', 'Zeri', 'Ashe', 'Sylas', 'Sejuani']","['Kennen', 'LeeSin', 'Annie', 'Draven', 'Nautilus']",0
+"['Varus', 'Renekton', 'Jayce', 'Elise', 'Fiora']","['Jax', 'Vi', 'Taliyah', 'Caitlyn', 'Lux']",1
+"['Lucian', 'Kindred', 'Ashe', 'Caitlyn', 'Xayah']","['Jax', 'Sejuani', 'Azir', 'Zeri', 'Leona']",1
+"['Varus', 'Jayce', 'Maokai', 'Ryze', 'Akali']","['Fiora', 'Vi', 'Syndra', 'Kaisa', 'Rakan']",0
+"['Jax', 'Annie', 'Ashe', 'Yone', 'Kassadin']","['Gnar', 'Nidalee', 'Ryze', 'Caitlyn', 'Lux']",1
+"['Gragas', 'Maokai', 'Renekton', 'Jayce', 'Tristana']","['Fiora', 'Sejuani', 'Akali', 'Lucian', 'Nami']",0
+"['Maokai', 'Caitlyn', 'Ashe', 'Ahri', 'Fiora']","['Jax', 'Sejuani', 'Sylas', 'Zeri', 'Lulu']",1
+"['Gragas', 'Jayce', 'Renekton', 'LeBlanc', 'Kassadin']","['Gnar', 'Vi', 'Akali', 'Lucian', 'Nami']",0
+"['Fiora', 'Sejuani', 'Lucian', 'Ryze', 'Wukong']","['Gnar', 'Elise', 'Jayce', 'Varus', 'Soraka']",1
+"['Zeri', 'Ashe', 'Maokai', 'Gwen', 'Sion']","['KSante', 'Gragas', 'Sylas', 'Jhin', 'Heimerdinger']",0
+"['Maokai', 'Sejuani', 'Fiora', 'Kassadin', 'Jax']","['Renekton', 'Vi', 'Syndra', 'Lucian', 'Nami']",1
+"['Ashe', 'Elise', 'Varus', 'KSante', 'Sion']","['Camille', 'Wukong', 'Akali', 'Zeri', 'Lulu']",0
+"['Draven', 'Maokai', 'Ashe', 'Jhin', 'Yuumi']","['Darius', 'Vi', 'Ryze', 'Kaisa', 'Varus']",0
+"['Lucian', 'Zeri', 'Akali', 'Kassadin', 'LeBlanc']","['KSante', 'Sejuani', 'Sylas', 'Xayah', 'Heimerdinger']",1
+"['Draven', 'Maokai', 'KSante', 'Jax', 'Sylas']","['Rumble', 'Vi', 'Ahri', 'Varus', 'Ashe']",1
+"['Lucian', 'Zeri', 'Akali', 'Yone', 'Kassadin']","['Camille', 'Sejuani', 'Viktor', 'Ezreal', 'Heimerdinger']",0
+"['Draven', 'Maokai', 'KSante', 'Jax', 'Xayah']","['Renekton', 'Vi', 'Ryze', 'Varus', 'Heimerdinger']",0
+"['Lucian', 'Akali', 'Zeri', 'Kassadin', 'Rumble']","['Gnar', 'Sejuani', 'Sylas', 'Kaisa', 'Ashe']",1
+"['Ryze', 'Caitlyn', 'Elise', 'Akali', 'Taliyah']","['KSante', 'Sejuani', 'Viktor', 'Zeri', 'Yuumi']",0
+"['Maokai', 'Kassadin', 'Vi', 'Yone', 'Sylas']","['Fiora', 'Wukong', 'TwistedFate', 'Lucian', 'Nami']",1
+"['Lucian', 'Caitlyn', 'Elise', 'Twisted Fate', 'Akali']","['Jax', 'Sejuani', 'Yone', 'Jhin', 'Heimerdinger']",0
+"['Maokai', 'Zeri', 'Ryze', 'Kassadin', 'Sylas']","['KSante', 'Wukong', 'Taliyah', 'Varus', 'Ashe']",1
+"['Kassadin', 'KSante', 'Cassiopeia', 'Azir', 'Yone']","['Irelia', 'Elise', 'Sylas', 'Jhin', 'Heimerdinger']",0
+"['Zeri', 'Jax', 'Maokai', 'Renekton', 'Camille']","['Sion', 'Sejuani', 'Akali', 'Varus', 'Ashe']",1
+"['Jayce', 'Elise', 'Cassiopeia', 'Heimerdinger', 'Ziggs']","['Renekton', 'Sejuani', 'Yone', 'Varus', 'Ashe']",0
+"['Zeri', 'Jax', 'Caitlyn', 'Sylas', 'Akali']","['KSante', 'Maokai', 'Tristana', 'Jhin', 'Nautilus']",1
+"['Darius', 'Elise', 'Jayce', 'Kassadin', 'Jax']","['Sion', 'Wukong', 'Azir', 'Jhin', 'Ashe']",0
+"['Zeri', 'Maokai', 'Fiora', 'Kennen', 'Akali']","['KSante', 'Sejuani', 'Yone', 'Varus', 'Heimerdinger']",1
+"['Elise', 'Lucian', 'Lulu', 'Vi', 'Darius']","['Jax', 'Maokai', 'Azir', 'Sivir', 'Yuumi']",1
+"['Akali', 'Ashe', 'Sejuani', 'Jayce', 'Kassadin']","['Renekton', 'Wukong', 'Sylas', 'Zeri', 'Karma']",0
+"['Elise', 'Draven', 'Ashe', 'Renekton', 'Darius']","['Camille', 'Sejuani', 'Azir', 'Lucian', 'Nami']",0
+"['Jax', 'Akali', 'Zeri', 'Yone', 'Fiora']","['KSante', 'Maokai', 'Jayce', 'Varus', 'Nautilus']",1
+"['Azir', 'Ashe', 'Lucian', 'Cassiopeia', 'Renekton']","['Camille', 'Wukong', 'Galio', 'Zeri', 'Yuumi']",1
+"['Elise', 'Maokai', 'Sion', 'Fiora', 'KSante']","['Jax', 'Vi', 'Ryze', 'Varus', 'Caitlyn']",0
+"['Azir', 'Ashe', 'Varus', 'Yone', 'Syndra']","['Sion', 'Elise', 'Jayce', 'Caitlyn', 'Lux']",0
+"['Maokai', 'Zeri', 'Lucian', 'Fiora', 'Renekton']","['KSante', 'Sejuani', 'Irelia', 'Jhin', 'Heimerdinger']",1
+"['Azir', 'Varus', 'Caitlyn', 'Cassiopeia', 'KSante']","['Jax', 'Wukong', 'Ryze', 'Kaisa', 'Ashe']",1
+"['Maokai', 'Zeri', 'Lucian', 'Miss Fortune', 'Sion']","['Gragas', 'Vi', 'Kassadin', 'Jhin', 'Heimerdinger']",0
+"['Kassadin', 'Lucian', 'Ashe', 'Akali', 'Yone']","['Fiora', 'Vi', 'Azir', 'Varus', 'MissFortune']",1
+"['Elise', 'Maokai', 'Zeri', 'Jax', 'Sion']","['Renekton', 'Sejuani', 'Ryze', 'Jhin', 'Heimerdinger']",0
+"['Zeri', 'Lucian', 'Maokai', 'Tristana', 'Jax']","['Camille', 'Lillia', 'Jayce', 'Varus', 'Leona']",1
+"['Azir', 'Ashe', 'Renekton', 'Gragas', 'Fiora']","['KSante', 'Elise', 'Akali', 'Caitlyn', 'Lux']",0
+"['Elise', 'Ashe', 'Vi', 'Gwen', 'Sylas']","['Sion', 'Wukong', 'Syndra', 'Lucian', 'Yuumi']",0
+"['Maokai', 'Draven', 'Zeri', 'Jax', 'Fiora']","['KSante', 'Sejuani', 'Kassadin', 'Caitlyn', 'Nami']",1
+"['Ashe', 'Elise', 'Vi', 'Poppy', 'Gragas']","['Renekton', 'Wukong', 'Viktor', 'Lucian', 'Yuumi']",0
+"['Maokai', 'Draven', 'Jax', 'Kassadin', 'Ryze']","['KSante', 'Sejuani', 'Taliyah', 'Zeri', 'Lulu']",1
+"['Lucian', 'Zeri', 'Fiora', 'Camille', 'Heimerdinger']","['KSante', 'Wukong', 'Sylas', 'Sivir', 'Ashe']",0
+"['Vi', 'Jax', 'Sion', 'Ryze', 'Ahri']","['Gwen', 'Maokai', 'Jayce', 'Varus', 'Caitlyn']",1
+"['Lucian', 'Zeri', 'Maokai', 'Ryze', 'Akali']","['Rumble', 'Sejuani', 'Yone', 'Varus', 'Heimerdinger']",1
+"['Vi', 'Jax', 'Renekton', 'Jayce', 'KSante']","['Fiora', 'Wukong', 'Sylas', 'Jhin', 'Ashe']",0
+"['Lucian', 'Zeri', 'Maokai', 'Ryze', 'Kassadin']","['Jayce', 'Wukong', 'Akali', 'Varus', 'Heimerdinger']",0
+"['Vi', 'Jax', 'Renekton', 'Rumble', 'Kennen']","['Fiora', 'Sejuani', 'Syndra', 'Ezreal', 'Ashe']",1
+"['Lucian', 'Wukong', 'Vi', 'Nidalee', 'Akali']","['Jax', 'Elise', 'Renekton', 'Draven', 'Varus']",0
+"['Maokai', 'Sejuani', 'Zeri', 'Azir', 'Kassadin']","['Sion', 'Gragas', 'Jayce', 'Jhin', 'Ashe']",1
+"['Zeri', 'Elise', 'Maokai', 'Jayce', 'Tristana']","['Sion', 'Wukong', 'Ryze', 'Lucian', 'Nami']",0
+"['Fiora', 'Sejuani', 'Kassadin', 'Jax', 'Viego']","['Camille', 'Gragas', 'Yone', 'Varus', 'Ashe']",1
+"['Kassadin', 'Samira', 'Lucian', 'Akali', 'Ahri']","['Sion', 'Wukong', 'Ryze', 'Zeri', 'Nautilus']",0
+"['Maokai', 'Elise', 'Lulu', 'Heimerdinger', 'Jax']","['KSante', 'Vi', 'Viktor', 'Tristana', 'Yuumi']",1
+"['Zeri', 'Lucian', 'Samira', 'Akali', 'Karma']","['Gnar', 'Sejuani', 'Kassadin', 'Ashe', 'Heimerdinger']",0
+"['Maokai', 'Elise', 'Jhin', 'Jax']","['KSante', 'Wukong', 'Tristana', 'Kaisa', 'Varus']",1
+"['Ryze', 'Elise', 'Ashe', 'Miss Fortune', 'Jax']","['Renekton', 'Sejuani', 'Kassadin', 'Varus', 'Heimerdinger']",1
+"['Zeri', 'Maokai', 'Nami', 'Sylas', 'Akali']","['Jayce', 'Wukong', 'Azir', 'Jhin', 'Yuumi']",0
+"['Maokai', 'Zeri', 'Lucian', 'Azir', 'Sion']","['KSante', 'Sejuani', 'Akali', 'Varus', 'Heimerdinger']",1
+"['Ryze', 'Elise', 'Kassadin', 'Jax', 'Renekton']","['Gangplank', 'Wukong', 'Sylas', 'Jhin', 'Ashe']",0
+"['Elise', 'Jax', 'Sejuani', 'Fiora', 'Ryze']","['KSante', 'Wukong', 'Azir', 'Varus', 'MissFortune']",0
+"['Zeri', 'Lucian', 'Maokai', 'Sion', 'Renekton']","['Camille', 'Vi', 'Taliyah', 'Ashe', 'Heimerdinger']",1
+"['Elise', 'Maokai', 'Sylas', 'Fiora', 'Jax']","['KSante', 'Amumu', 'Yone', 'Varus', 'Caitlyn']",0
+"['Lucian', 'Ashe', 'Vi', 'Poppy', 'Ryze']","['Renekton', 'Sejuani', 'Kassadin', 'Zeri', 'Yuumi']",1
+"['Kassadin', 'Jayce', 'Elise', 'Yone', 'Fiora']","['Sion', 'Wukong', 'Akali', 'Caitlyn', 'Ashe']",1
+"['Zeri', 'Lucian', 'Maokai', 'Jax', 'Ryze']","['KSante', 'Sejuani', 'Sylas', 'Varus', 'Heimerdinger']",0
+"['Maokai', 'Elise', 'Zeri', 'Yone', 'Jayce']","['Sion', 'Wukong', 'Azir', 'Jhin', 'Heimerdinger']",1
+"['Lucian', 'Jax', 'Ashe', 'Ryze', 'Fiora']","['KSante', 'Sejuani', 'Kassadin', 'Varus', 'Lux']",0
+"['Kassadin', 'Elise', 'Renekton', 'Sion', 'Gragas']","['Jax', 'Wukong', 'Syndra', 'Zeri', 'Lulu']",1
+"['Fiora', 'Maokai', 'Ashe', 'Azir', 'Akali']","['Kennen', 'Vi', 'Viktor', 'Sivir', 'Yuumi']",0
+"['Elise', 'Kassadin', 'Renekton', 'Jayce', 'Sion']","['Kennen', 'Wukong', 'Viktor', 'Jhin', 'Ashe']",1
+"['Maokai', 'Caitlyn', 'Zeri', 'Azir', 'Fiora']","['Jax', 'Sejuani', 'Sylas', 'Varus', 'Heimerdinger']",0
+"['Kindred', 'Jax', 'Nidalee', 'Kassadin', 'Fiora']","['KSante', 'Sejuani', 'Ryze', 'Zeri', 'Yuumi']",0
+"['Elise', 'Vi', 'Ashe', 'Lee Sin', 'Renekton']","['Gnar', 'Maokai', 'Jayce', 'Lucian', 'Nami']",1
+"['Kindred', 'Jax', 'Nidalee', 'Fiora', 'Camille']","['Sion', 'Maokai', 'Jayce', 'Lucian', 'Nami']",1
+"['Elise', 'Vi', 'Ashe', 'Renekton', 'Kassadin']","['Gnar', 'Sejuani', 'Ryze', 'Zeri', 'Yuumi']",0
+"['Jax', 'Kindred', 'Nidalee', 'Fiora', 'KSante']","['Sion', 'Vi', 'Akali', 'Lucian', 'Nami']",0
+"['Elise', 'Maokai', 'Ashe', 'Renekton', 'Ahri']","['Gwen', 'Wukong', 'Ryze', 'Zeri', 'Yuumi']",1
+"['Ashe', 'Lucian', 'Zeri', 'Kassadin', 'KSante']","['Sylas', 'Sejuani', 'Yone', 'Varus', 'Heimerdinger']",1
+"['Jax', 'Elise', 'Maokai', 'Fiora', 'Jayce']","['Gnar', 'Wukong', 'Ryze', 'Sivir', 'Yuumi']",0
+"['Zeri', 'Lucian', 'Maokai', 'Sion', 'Ryze']","['KSante', 'Vi', 'Cassiopeia', 'Jhin', 'Ashe']",1
+"['Jax', 'Sejuani', 'Elise', 'Fiora', 'Kassadin']","['Gnar', 'Wukong', 'Taliyah', 'Varus', 'Heimerdinger']",0
+"['Jax', 'Lucian', 'Sejuani', 'Wukong', 'Vi']","['Darius', 'Elise', 'Jayce', 'Ziggs', 'Pyke']",1
+"['Yuumi', 'Lulu', 'Maokai', 'Leona', 'Renekton']","['Fiora', 'Poppy', 'Azir', 'Draven', 'Ashe']",0
+"['Jax', 'Lucian', 'Ziggs', 'Miss Fortune', 'Azir']","['Jayce', 'Sejuani', 'Sylas', 'Jhin', 'Ashe']",0
+"['Zeri', 'Draven', 'Yuumi', 'Ezreal', 'Darius']","['Fiora', 'Maokai', 'Kassadin', 'Kalista', 'Varus']",1
+"['Jax', 'Lucian', 'Sejuani', 'Vi', 'Wukong']","['Renekton', 'Maokai', 'Jayce', 'Jhin', 'Heimerdinger']",1
+"['Zeri', 'Ziggs', 'Draven', 'Yuumi', 'Darius']","['Fiora', 'Elise', 'Yone', 'Varus', 'Ashe']",0
+"['Jax', 'Vi', 'Lucian', 'Sylas', 'Ryze']","['Sion', 'Maokai', 'Yone', 'Varus', 'Karma']",0
+"['Samira', 'Zeri', 'Akali', 'Heimerdinger', 'Udyr']","['KSante', 'Wukong', 'Ahri', 'Sivir', 'Ashe']",1
+"['Jax', 'Vi', 'Yuumi', 'Gwen', 'Ryze']","['Sion', 'Sejuani', 'Sylas', 'Lucian', 'Nami']",1
+"['Akali', 'Kassadin', 'Ashe', 'Yone', 'KSante']","['Renekton', 'Wukong', 'Ahri', 'Zeri', 'Lulu']",0
+"['Jax', 'Vi', 'Elise', 'Gwen', 'Ryze']","['KSante', 'Sejuani', 'Sylas', 'Ezreal', 'Ashe']",0
+"['Zeri', 'Samira', 'Lucian', 'Kassadin', 'Kaisa']","['Sion', 'Wukong', 'Akali', 'Varus', 'Heimerdinger']",1
+"['Jax', 'Sylas', 'Ashe', 'Caitlyn', 'Heimerdinger']","['Sion', 'JarvanIV', 'Ryze', 'Zeri', 'Lulu']",1
+"['Draven', 'Maokai', 'Yuumi', 'Wukong', 'Lee Sin']","['KSante', 'Elise', 'Jayce', 'Varus', 'Nautilus']",0
+"['Jax', 'Ashe', 'Jayce', 'Azir', 'Syndra']","['Renekton', 'Vi', 'Ryze', 'Zeri', 'Lulu']",1
+"['Draven', 'Kassadin', 'Elise', 'Wukong', 'Lee Sin']","['KSante', 'Maokai', 'Tristana', 'Sivir', 'Yuumi']",0
+"['Ashe', 'Azir', 'Maokai', 'Akali', 'LeBlanc']","['KSante', 'Vi', 'Sylas', 'Lucian', 'Nami']",0
+"['Ryze', 'Kindred', 'Jax', 'Kassadin', 'Gnar']","['Fiora', 'Sejuani', 'Jayce', 'Zeri', 'Yuumi']",1
+"['Lucian', 'Zeri', 'Ashe', 'Leona', 'Renekton']","['KSante', 'Nidalee', 'Jayce', 'Varus', 'Karma']",0
+"['Ryze', 'Jax', 'Kindred', 'Gwen', 'Fiora']","['Camille', 'Maokai', 'Akali', 'Jhin', 'Heimerdinger']",1
+"['Kassadin', 'Varus', 'Vi', 'Fiora', 'Cassiopeia']","['Sion', 'Poppy', 'Orianna', 'Zeri', 'Yuumi']",0
+"['Jax', 'Maokai', 'Sejuani', 'Jayce', 'Azir']","['Gnar', 'Wukong', 'Ryze', 'Lucian', 'Nami']",1
+"['Maokai', 'Varus', 'Vi', 'Fiora', 'Yone']","['KSante', 'Wukong', 'Ryze', 'Zeri', 'Yuumi']",1
+"['Jax', 'Jayce', 'Poppy', 'Kassadin', 'Sion']","['Gnar', 'Sejuani', 'Azir', 'Lucian', 'Nami']",0
+"['Kassadin', 'Varus', 'Gnar', 'Sylas', 'Akali']","['Renekton', 'Maokai', 'Azir', 'Caitlyn', 'Heimerdinger']",1
+"['Zeri', 'Lucian', 'Jax', 'Jayce', 'Fiora']","['KSante', 'Vi', 'Ryze', 'Jhin', 'Ashe']",0
+"['Jayce', 'Elise', 'Sylas', 'Gwen', 'Leona']","['Kennen', 'Maokai', 'Ryze', 'Jhin', 'Ashe']",1
+"['Zeri', 'Lucian', 'Jax', 'Gangplank', 'Renekton']","['Fiora', 'Sejuani', 'Yone', 'Varus', 'Nautilus']",0
+"['Jayce', 'Elise', 'Sylas', 'Vi', 'Wukong']","['Renekton', 'Maokai', 'Swain', 'Jhin', 'Ashe']",0
+"['Zeri', 'Lucian', 'Jax', 'Tristana', 'Yone']","['Fiora', 'LeeSin', 'Ryze', 'Varus', 'Leona']",1
+"['Jayce', 'Elise', 'Sylas', 'Fiora', 'Vi']","['Sion', 'Maokai', 'Azir', 'Ezreal', 'Ashe']",1
+"['Zeri', 'Lucian', 'Jax', 'Jhin', 'Sivir']","['Gnar', 'Zac', 'Ryze', 'Varus', 'Leona']",0
+"['KSante', 'Lucian', 'Caitlyn', 'Jayce', 'Renekton']","['Aatrox', 'Sejuani', 'Akali', 'Varus', 'Karma']",0
+"['Maokai', 'Yuumi', 'Jax', 'Gnar', 'Fiora']","['Sion', 'Elise', 'Tristana', 'Zeri', 'Ashe']",1
+"['KSante', 'Elise', 'Zeri', 'Gnar', 'Sion']","['Gragas', 'Wukong', 'Sylas', 'Varus', 'Ashe']",1
+"['Maokai', 'Jax', 'Kassadin', 'Jayce', 'Syndra']","['Renekton', 'Sejuani', 'Ryze', 'Lucian', 'Nami']",0
+"['KSante', 'Elise', 'Ashe', 'Taliyah', 'Gnar']","['Renekton', 'Wukong', 'Akali', 'Zeri', 'Yuumi']",0
+"['Maokai', 'Jax', 'Sejuani', 'Ryze', 'Kassadin']","['Sion', 'Vi', 'Syndra', 'Lucian', 'Nami']",1
+"['Zeri', 'Yuumi', 'Kassadin', 'Renekton', 'Gnar']","['KSante', 'Poppy', 'Ryze', 'Lucian', 'Nami']",1
+"['Fiora', 'Jax', 'Irelia', 'Maokai', 'Sejuani']","['Gwen', 'Elise', 'Jayce', 'Varus', 'Ashe']",0
+"['Zeri', 'Kassadin', 'Jax', 'Yuumi', 'Caitlyn']","['Camille', 'Sejuani', 'Azir', 'Varus', 'Heimerdinger']",1
+"['Fiora', 'Lucian', 'Ashe', 'Sylas', 'Irelia']","['KSante', 'Maokai', 'Jayce', 'Sivir', 'Karma']",0
+"['Jax', 'Ashe', 'Yuumi', 'Heimerdinger', 'Ryze']","['KSante', 'Vi', 'Sylas', 'Varus', 'Leona']",1
+"['Lucian', 'Elise', 'Maokai', 'Kassadin', 'Akali']","['Gnar', 'Sejuani', 'Azir', 'Jhin', 'Karma']",0
+"['Maokai', 'Varus', 'Zeri', 'Renekton', 'KSante']","['Jax', 'Sejuani', 'Cassiopeia', 'Draven', 'Jhin']",1
+"['Elise', 'Lucian', 'Ryze', 'Yone', 'Kassadin']","['Gnar', 'Sylas', 'Akali', 'Sivir', 'Ashe']",0
+"['Zeri', 'Ziggs', 'Yuumi', 'Sylas', 'Jax']","['KSante', 'Maokai', 'Jayce', 'Lucian', 'Nami']",1
+"['Elise', 'Ashe', 'Azir', 'Akali', 'Kassadin']","['Gnar', 'Sejuani', 'Ryze', 'Draven', 'Nautilus']",0
+"['Zeri', 'Ziggs', 'Yuumi', 'Jayce', 'Tristana']","['Sion', 'Vi', 'Ryze', 'Varus', 'Heimerdinger']",1
+"['Elise', 'Ashe', 'Lucian', 'Azir', 'Sylas']","['Chogath', 'Maokai', 'Renekton', 'Sivir', 'Karma']",0
+"['Fiora', 'Elise', 'Sejuani', 'Jhin', 'KSante']","['Renekton', 'Vi', 'Ahri', 'Varus', 'Karma']",1
+"['Jax', 'Lucian', 'Zeri', 'Ryze', 'Sylas']","['Gangplank', 'Maokai', 'Jayce', 'Ashe', 'Heimerdinger']",0
+"['Elise', 'Lucian', 'Yuumi', 'KSante', 'Vi']","['Renekton', 'Maokai', 'Jayce', 'Zeri', 'Lulu']",0
+"['Kassadin', 'Jax', 'Draven', 'Jhin', 'Nautilus']","['Ornn', 'LeeSin', 'Ryze', 'Varus', 'Ashe']",1
+"['Fiora', 'Elise', 'Sejuani', 'Jhin', 'KSante']","['Renekton', 'Vi', 'Sylas', 'Varus', 'Karma']",1
+"['Jax', 'Lucian', 'Yuumi', 'Kassadin', 'Akali']","['Ornn', 'LeeSin', 'Ryze', 'Sivir', 'Ashe']",0
+"['Kassadin', 'Zeri', 'Lucian', 'Vi', 'Wukong']","['Jayce', 'Sejuani', 'Akali', 'Ziggs', 'Nautilus']",0
+"['Elise', 'Maokai', 'Jax', 'Fiora', 'Leona']","['Sion', 'Sylas', 'LeBlanc', 'Varus', 'Ashe']",1
+"['Maokai', 'Zeri', 'Lucian', 'Sylas', 'LeBlanc']","['KSante', 'Sejuani', 'Akali', 'Varus', 'Heimerdinger']",0
+"['Jax', 'Kassadin', 'Ryze', 'Leona', 'Nautilus']","['Renekton', 'Elise', 'Jayce', 'Caitlyn', 'Ashe']",1
+"['Ryze', 'Jax', 'Elise', 'Fiora', 'Kassadin']","['KSante', 'Vi', 'Akali', 'Lucian', 'Nami']",0
+"['Ashe', 'Maokai', 'Azir', 'Renekton', 'Irelia']","['Jayce', 'Sejuani', 'Sylas', 'Zeri', 'Yuumi']",1
+"['Ryze', 'Jax', 'Elise', 'Fiora', 'Kassadin']","['Sion', 'Vi', 'Akali', 'Zeri', 'Yuumi']",1
+"['Ashe', 'Maokai', 'Azir', 'Renekton', 'Irelia']","['Jayce', 'Sejuani', 'Sylas', 'Lucian', 'Nami']",0
+"['Ryze', 'Jax', 'Kassadin', 'Renekton', 'KSante']","['Kennen', 'Sejuani', 'Jayce', 'Kaisa', 'Ashe']",1
+"['Maokai', 'Zeri', 'Lucian', 'Azir', 'Jhin']","['Gangplank', 'Elise', 'Akali', 'Varus', 'Heimerdinger']",0
+"['Zeri', 'Akali', 'Kassadin', 'Sylas', 'Yone']","['Gwen', 'Elise', 'Jayce', 'Draven', 'Nautilus']",1
+"['Jax', 'Ryze', 'Azir', 'Fiora', 'Renekton']","['KSante', 'Sejuani', 'Viktor', 'Lucian', 'Nami']",0
+"['Zeri', 'Lucian', 'Vi', 'Gwen', 'Sion']","['Renekton', 'Sejuani', 'Sylas', 'Jhin', 'Ashe']",0
+"['Jax', 'Ryze', 'Elise', 'Yuumi', 'Samira']","['KSante', 'Maokai', 'Yone', 'Varus', 'RenataGlasc']",1
+"['Zeri', 'Vi', 'Sejuani', 'Rell', 'Nautilus']","['Renekton', 'Maokai', 'Tristana', 'Varus', 'Leona']",1
+"['Ryze', 'Jax', 'Elise', 'Renata Glasc', 'Braum']","['KSante', 'Wukong', 'Kassadin', 'Samira', 'Alistar']",0
+"['KSante', 'Yuumi', 'Maokai', 'Kassadin', 'Azir']","['Gnar', 'Wukong', 'Ryze', 'Lucian', 'Nami']",0
+"['Jax', 'Kindred', 'Galio', 'Elise', 'Nidalee']","['Jayce', 'Vi', 'Cassiopeia', 'Varus', 'Ashe']",1
+"['KSante', 'Maokai', 'Varus', 'Cassiopeia', 'Renekton']","['Fiora', 'Vi', 'Ryze', 'Lucian', 'Nami']",1
+"['Jax', 'Kindred', 'Galio', 'Gnar', 'Kassadin']","['Jayce', 'Sejuani', 'Azir', 'Zeri', 'Yuumi']",0
+"['Yuumi', 'Lucian', 'Maokai', 'KSante', 'Kassadin']","['Renekton', 'Nidalee', 'Azir', 'Varus', 'Pyke']",0
+"['Jax', 'Kindred', 'Galio', 'Jayce', 'Karma']","['Sion', 'Vi', 'Ryze', 'Jhin', 'Ashe']",1
+"['Yuumi', 'Jayce', 'Kassadin', 'Renekton', 'Ryze']","['Gnar', 'Sejuani', 'Akali', 'Lucian', 'Nami']",0
+"['Elise', 'Varus', 'Tristana', 'Sylas', 'Yone']","['KSante', 'Maokai', 'Syndra', 'Zeri', 'Lulu']",1
+"['Zeri', 'Lucian', 'Kassadin', 'Ryze', 'Zoe']","['Jax', 'Sejuani', 'Yone', 'Caitlyn', 'Heimerdinger']",1
+"['Elise', 'Varus', 'Maokai', 'Sylas', 'Akali']","['KSante', 'Vi', 'Taliyah', 'Draven', 'Ashe']",0
+"['Zeri', 'Lucian', 'Kassadin', 'Sylas', 'Zoe']","['KSante', 'Maokai', 'Jayce', 'Ziggs', 'Braum']",1
+"['Varus', 'Heimerdinger', 'Elise', 'Leona', 'Alistar']","['Gnar', 'Sejuani', 'Syndra', 'Draven', 'Nautilus']",0
+"['Yuumi', 'Ashe', 'Ryze', 'Samira', 'Caitlyn']","['Fiora', 'Maokai', 'Galio', 'Zeri', 'MissFortune']",1
+"['Elise', 'Lucian', 'Varus', 'Kassadin', 'Lulu']","['Jax', 'Sejuani', 'Sylas', 'Jhin', 'Heimerdinger']",0
+"['Ashe', 'Ryze', 'Sejuani', 'Wukong', 'Elise']","['KSante', 'Maokai', 'Azir', 'Zeri', 'Lulu']",1
+"['Varus', 'Lucian', 'Kassadin', 'Jayce', 'Fiora']","['Jax', 'Sylas', 'Akali', 'Sivir', 'Yuumi']",0
+"['Jax', 'Ryze', 'Elise', 'Sylas', 'Akali']","['Renekton', 'Maokai', 'Jayce', 'Jhin', 'Heimerdinger']",1
+"['Lucian', 'Yuumi', 'Ashe', 'Sivir', 'Zeri']","['KSante', 'Sejuani', 'Syndra', 'Varus', 'Caitlyn']",0
+"['Ryze', 'Elise', 'Yuumi', 'Sejuani', 'Sylas']","['Gragas', 'Maokai', 'LeeSin', 'Zeri', 'Lulu']",1
+"['Jayce', 'Ashe', 'Caitlyn', 'Yone', 'Renekton']","['Jax', 'Vi', 'Akali', 'Lucian', 'Nami']",0
+"['Sejuani', 'Maokai', 'Elise', 'Jayce', 'Gnar']","['Gwen', 'Wukong', 'Syndra', 'Zeri', 'Yuumi']",0
+"['Jax', 'Ashe', 'Kassadin', 'Fiora', 'Ryze']","['KSante', 'Vi', 'Viktor', 'Lucian', 'Nami']",1
+"['Maokai', 'Elise', 'Zeri', 'Renekton', 'Jayce']","['Gwen', 'Vi', 'Ryze', 'Lucian', 'Yuumi']",0
+"['Jax', 'Ashe', 'Kassadin', 'Ahri', 'Fiora']","['KSante', 'Sejuani', 'Syndra', 'Caitlyn', 'Nami']",1
+"['Graves', 'Ryze', 'Lucian', 'Sylas', 'Akali']","['KSante', 'Maokai', 'Jayce', 'Zeri', 'Ashe']",1
+"['Elise', 'Azir', 'Yuumi', 'Kassadin', 'Caitlyn']","['Jax', 'Sejuani', 'Syndra', 'Varus', 'Karma']",0
+"['Graves', 'Ryze', 'Maokai', 'Lissandra', 'Kassadin']","['Sion', 'Vi', 'Akali', 'Zeri', 'Yuumi']",1
+"['Jax', 'Caitlyn', 'Ashe', 'Azir', 'Fiora']","['KSante', 'Wukong', 'Ahri', 'Lucian', 'Nami']",0
+"['Fiora', 'Elise', 'Ryze', 'Azir', 'Ashe']","['KSante', 'Maokai', 'Jayce', 'Sivir', 'Karma']",0
+"['Lucian', 'Jax', 'Yuumi', 'Draven', 'Zeri']","['Renekton', 'Sejuani', 'Kassadin', 'Varus', 'Leona']",1
+"['Fiora', 'Elise', 'Sejuani', 'Karma', 'Nautilus']","['KSante', 'Vi', 'Kassadin', 'Varus', 'Ashe']",0
+"['Lucian', 'Jax', 'Yuumi', 'Cassiopeia', 'Sion']","['Renekton', 'Maokai', 'Ryze', 'Jhin', 'Leona']",1
+"['Lucian', 'Elise', 'Ryze', 'Kassadin', 'Akali']","['Renekton', 'Sejuani', 'Sylas', 'Jhin', 'Heimerdinger']",1
+"['Jayce', 'Yuumi', 'Draven', 'Varus', 'Karma']","['Jax', 'Maokai', 'Taliyah', 'Sivir', 'Ashe']",0
+"['Elise', 'Lucian', 'Ryze', 'Varus', 'Ashe']","['KSante', 'Sejuani', 'Akali', 'Sivir', 'Karma']",0
+"['Jayce', 'Yuumi', 'Kassadin', 'Jhin', 'Leona']","['Jax', 'Maokai', 'Sylas', 'Zeri', 'Heimerdinger']",1
+"['Elise', 'Jax', 'Zeri', 'Camille', 'Ryze']","['Renekton', 'Sejuani', 'Azir', 'Twitch', 'Yuumi']",1
+"['Jayce', 'Sylas', 'Lucian', 'Darius', 'Akali']","['Fiora', 'Maokai', 'Viktor', 'Sivir', 'Heimerdinger']",0
+"['Elise', 'Yuumi', 'Maokai', 'Jayce', 'Sejuani']","['Irelia', 'Kindred', 'Galio', 'Varus', 'Karma']",1
+"['Jax', 'Lucian', 'Fiora', 'Camille', 'Leona']","['Gnar', 'Gragas', 'Ryze', 'Sivir', 'Ashe']",0
+"['Elise', 'Sejuani', 'Maokai', 'Lissandra', 'Galio']","['Renekton', 'Wukong', 'Azir', 'Zeri', 'Yuumi']",0
+"['Jax', 'Kindred', 'Ashe', 'Fiora', 'Ryze']","['KSante', 'Vi', 'Taliyah', 'Lucian', 'Nami']",1
+"['Elise', 'Yuumi', 'KSante', 'Caitlyn', 'Jhin']","['Jax', 'Nidalee', 'Sylas', 'Ashe', 'Heimerdinger']",1
+"['Kindred', 'Varus', 'Lucian', 'Vi', 'Sejuani']","['Jayce', 'Maokai', 'Ryze', 'Ziggs', 'Leona']",0
+"['Yuumi', 'KSante', 'Renekton', 'Gragas', 'Ashe']","['Jayce', 'Maokai', 'Ryze', 'Sivir', 'Heimerdinger']",0
+"['Jax', 'Fiora', 'Lucian', 'Azir', 'Camille']","['Sion', 'Elise', 'Tristana', 'Varus', 'Jhin']",1
+"['Tristana', 'Varus', 'Draven', 'Zeri', 'Ezreal']","['Irelia', 'Maokai', 'Azir', 'Lucian', 'Yuumi']",1
+"['Jax', 'Fiora', 'Kassadin', 'Akali', 'Camille']","['KSante', 'Elise', 'Jayce', 'Ziggs', 'Nami']",0
+"['Yuumi', 'KSante', 'Tristana', 'Gwen', 'Sivir']","['Jayce', 'Sejuani', 'Sylas', 'Varus', 'Ashe']",0
+"['Jax', 'Fiora', 'Lucian', 'Camille', 'Irelia']","['Renekton', 'Maokai', 'Yone', 'Ziggs', 'Jhin']",1
+"['Maokai', 'Varus', 'Syndra', 'Azir', 'Taliyah']","['Udyr', 'Poppy', 'Ryze', 'Zeri', 'Yuumi']",1
+"['Akali', 'Samira', 'Kassadin', 'Sejuani', 'Wukong']","['KSante', 'Vi', 'Cassiopeia', 'Lucian', 'Nami']",0
+"['Maokai', 'Varus', 'Azir', 'Sejuani', 'KSante']","['Rumble', 'Vi', 'Yone', 'Zeri', 'Yuumi']",1
+"['Akali', 'Samira', 'Kassadin', 'Sylas', 'Udyr']","['Renekton', 'Poppy', 'Ryze', 'Lucian', 'Nami']",0
+"['Maokai', 'Renekton', 'Ryze', 'Jayce', 'Akshan']","['Jax', 'LeeSin', 'Kassadin', 'Sivir', 'Yuumi']",1
+"['Elise', 'Kalista', 'Caitlyn', 'Vi', 'Wukong']","['Camille', 'Sejuani', 'Zoe', 'Zeri', 'Lulu']",0
+"['Maokai', 'Renekton', 'Ryze', 'Jarvan IV', 'Sejuani']","['KSante', 'Vi', 'Ahri', 'Sivir', 'Yuumi']",0
+"['Elise', 'Kassadin', 'Kalista', 'Akali', 'LeBlanc']","['Jayce', 'Wukong', 'Syndra', 'Zeri', 'Lulu']",1
+"['Maokai', 'Zeri', 'Draven', 'Jayce', 'Renekton']","['KSante', 'Wukong', 'Syndra', 'Lucian', 'Yuumi']",1
+"['Elise', 'Kassadin', 'Ryze', 'Jax', 'Vi']","['Camille', 'Sejuani', 'Zoe', 'Xayah', 'Nami']",0
+"['Elise', 'Galio', 'Ashe', 'Kassadin', 'LeBlanc']","['Jax', 'Maokai', 'Azir', 'Jhin', 'Heimerdinger']",0
+"['Zeri', 'Lucian', 'Yuumi', 'Karma', 'Syndra']","['Fiora', 'Sejuani', 'Ryze', 'Varus', 'MissFortune']",1
+"['Elise', 'Varus', 'Galio', 'Sylas', 'Kassadin']","['Jax', 'Maokai', 'Ryze', 'Sivir', 'Ashe']",1
+"['Lucian', 'Yuumi', 'Zeri', 'Renekton', 'Yone']","['Fiora', 'Sejuani', 'Akali', 'Jhin', 'Heimerdinger']",0
+"['Elise', 'Galio', 'Varus', 'Kassadin', 'Sylas']","['KSante', 'Maokai', 'Ryze', 'Caitlyn', 'Ashe']",1
+"['Jax', 'Lucian', 'Yuumi', 'Sivir', 'Fiora']","['Gnar', 'Sejuani', 'Azir', 'Zeri', 'Heimerdinger']",0
+"['Jax', 'Vi', 'Kassadin', 'Wukong', 'Gwen']","['KSante', 'Maokai', 'Akali', 'Draven', 'Nautilus']",1
+"['Elise', 'Ryze', 'Sejuani', 'Azir', 'Syndra']","['Renekton', 'Nidalee', 'Sylas', 'Lucian', 'Nami']",0
+"['Jax', 'Vi', 'Sylas', 'Ornn', 'Viktor']","['Darius', 'Sejuani', 'Jayce', 'Lucian', 'Nami']",1
+"['Ryze', 'Maokai', 'KSante', 'Renekton', 'Azir']","['Camille', 'Elise', 'Kassadin', 'Draven', 'Nautilus']",0
+"['Jayce', 'Sylas', 'Nami', 'Renekton', 'Syndra']","['Jax', 'Sejuani', 'Akali', 'Caitlyn', 'Ashe']",0
+"['Ryze', 'Elise', 'KSante', 'Vi', 'Kassadin']","['Gragas', 'Maokai', 'Yone', 'Zeri', 'Yuumi']",1
+"['Ashe', 'Jayce', 'Elise', 'Kassadin', 'Akali']","['Gwen', 'Vi', 'Sylas', 'Lucian', 'Nami']",0
+"['Ryze', 'Maokai', 'KSante', 'Azir', 'LeBlanc']","['Renekton', 'Sejuani', 'Taliyah', 'Zeri', 'Yuumi']",1
+"['Ashe', 'Kassadin', 'Kalista', 'Zeri', 'Sivir']","['Renekton', 'Graves', 'Galio', 'Ziggs', 'Leona']",0
+"['Yuumi', 'Lucian', 'Elise', 'Caitlyn', 'Heimerdinger']","['Jax', 'Maokai', 'Ryze', 'Varus', 'Rakan']",1
+"['Ashe', 'Ryze', 'Sylas', 'Kassadin', 'Akali']","['Jayce', 'Maokai', 'Azir', 'Sivir', 'Karma']",0
+"['Yuumi', 'Lucian', 'Elise', 'Renekton', 'Twisted Fate']","['Jax', 'Sejuani', 'Yone', 'Varus', 'Heimerdinger']",1
+"['Yuumi', 'Lucian', 'Caitlyn', 'Heimerdinger', 'Zeri']","['Jax', 'Maokai', 'Azir', 'Draven', 'Varus']",1
+"['Kassadin', 'Ryze', 'Ashe', 'Akali', 'Jayce']","['Fiora', 'Sejuani', 'Sylas', 'Sivir', 'Karma']",0
+"['Lucian', 'Yuumi', 'Ashe', 'KSante', 'Renekton']","['Irelia', 'Sejuani', 'Sylas', 'Sivir', 'MissFortune']",1
+"['Ryze', 'Jax', 'Fiora', 'Camille', 'Caitlyn']","['Jayce', 'Poppy', 'Azir', 'Varus', 'Heimerdinger']",0
+"['Caitlyn', 'Maokai', 'Taliyah', 'Kassadin', 'KSante']","['Jax', 'Elise', 'Akali', 'Zeri', 'Yuumi']",1
+"['Ashe', 'Ryze', 'Galio', 'Fiora', 'Gnar']","['Renekton', 'Sejuani', 'Zoe', 'Lucian', 'Nami']",0
+"['Caitlyn', 'Maokai', 'Taliyah', 'Kassadin', 'KSante']","['Jayce', 'Elise', 'Azir', 'Lucian', 'Nami']",0
+"['Ashe', 'Ryze', 'Galio', 'Akali', 'Jax']","['Renekton', 'Sejuani', 'Syndra', 'Zeri', 'Yuumi']",1
+"['Caitlyn', 'Maokai', 'Syndra', 'Kassadin', 'Taliyah']","['Jax', 'Wukong', 'Akali', 'Sivir', 'Yuumi']",0
+"['Ashe', 'Ryze', 'Elise', 'LeBlanc', 'Galio']","['Jayce', 'Sejuani', 'Sylas', 'Zeri', 'Lulu']",1
+"['Caitlyn', 'Heimerdinger', 'Yuumi', 'Ashe', 'Nautilus']","['Renekton', 'Vi', 'Azir', 'Lucian', 'Nami']",0
+"['Elise', 'Jax', 'Wukong', 'Ryze', 'Sylas']","['KSante', 'Maokai', 'Akali', 'Varus', 'Karma']",1
+"['Caitlyn', 'Heimerdinger', 'Varus', 'Kassadin', 'Syndra']","['Gwen', 'Maokai', 'Jayce', 'Zeri', 'Yuumi']",0
+"['Elise', 'Jax', 'Wukong', 'Renekton', 'KSante']","['Gnar', 'Vi', 'Azir', 'Lucian', 'Nami']",1
+"['Lucian', 'Zeri', 'Elise', 'Yone', 'Kassadin']","['KSante', 'Vi', 'Ryze', 'Varus', 'Leona']",1
+"['Ashe', 'Jax', 'Maokai', 'Karma', 'Jayce']","['Gnar', 'Sejuani', 'Sylas', 'Sivir', 'Heimerdinger']",0
+"['Lucian', 'Zeri', 'Elise', 'Fiora', 'Yone']","['Gwen', 'Vi', 'Sylas', 'Varus', 'Heimerdinger']",1
+"['Ashe', 'Jax', 'Draven', 'Jayce', 'Kassadin']","['Camille', 'Maokai', 'Renekton', 'Sivir', 'Yuumi']",0
+"['Akali', 'Samira', 'Ryze', 'Wukong', 'Vi']","['Gnar', 'Maokai', 'Irelia', 'Sivir', 'Yuumi']",0
+"['Varus', 'Jax', 'Renekton', 'Yone', 'Fiora']","['KSante', 'Sejuani', 'Kassadin', 'Zeri', 'Lulu']",1
+"['Akali', 'Samira', 'Ryze', 'Ashe', 'Sejuani']","['Jax', 'Vi', 'Azir', 'Caitlyn', 'Nami']",0
+"['Varus', 'Maokai', 'Yuumi', 'Kassadin', 'Elise']","['KSante', 'Wukong', 'Sylas', 'Lucian', 'Karma']",1
+"['Jax', 'Maokai', 'Ryze', 'Ahri', 'Jayce']","['Gnar', 'Poppy', 'Syndra', 'Zeri', 'Yuumi']",1
+"['Fiora', 'Sejuani', 'Galio', 'KSante', 'Kennen']","['Aatrox', 'Vi', 'Kassadin', 'Lucian', 'Nami']",0
+"['Ryze', 'Sejuani', 'Vi', 'Jax', 'Kassadin']","['Nidalee', 'Viego', 'Syndra', 'Sivir', 'Yuumi']",0
+"['Fiora', 'Zeri', 'Maokai', 'Gwen', 'Gnar']","['KSante', 'Wukong', 'Azir', 'Lucian', 'Nami']",1
+"['Ryze', 'Sejuani', 'Lucian', 'Vi', 'Wukong']","['KSante', 'Elise', 'Viktor', 'Caitlyn', 'Lux']",1
+"['Fiora', 'Zeri', 'Maokai', 'Renekton', 'Jayce']","['Jax', 'Poppy', 'Syndra', 'Sivir', 'Yuumi']",0
+"['Kindred', 'Renekton', 'Ryze', 'Ahri', 'Fiora']","['KSante', 'Wukong', 'Sylas', 'Zeri', 'Yuumi']",0
+"['Jax', 'Kalista', 'Syndra', 'Akali', 'Jayce']","['Camille', 'Vi', 'Galio', 'Lucian', 'Nami']",1
+"['Kindred', 'Renekton', 'Ryze', 'Fiora', 'Galio']","['KSante', 'Wukong', 'Kassadin', 'Zeri', 'Yuumi']",1
+"['Jax', 'Kalista', 'Maokai', 'Syndra', 'Ahri']","['Gwen', 'Vi', 'Azir', 'Lucian', 'Nami']",0
+"['Kindred', 'Renekton', 'Ryze', 'Fiora', 'Jayce']","['Gwen', 'Wukong', 'Galio', 'Zeri', 'Yuumi']",0
+"['Jax', 'Kassadin', 'KSante', 'Akali', 'Sylas']","['Gnar', 'Vi', 'Syndra', 'Lucian', 'Nami']",1
+"['Renekton', 'Zeri', 'Yuumi', 'Galio', 'Graves']","['Jax', 'Maokai', 'Kassadin', 'Lucian', 'Nami']",1
+"['Ryze', 'Fiora', 'Azir', 'Gwen', 'Wukong']","['KSante', 'Poppy', 'Syndra', 'Caitlyn', 'Ashe']",0
+"['Renekton', 'Zeri', 'Yuumi', 'Ashe', 'Galio']","['Jax', 'Sejuani', 'Sylas', 'Lucian', 'Nami']",1
+"['Ryze', 'Kassadin', 'Azir', 'Vi', 'Wukong']","['Fiora', 'Maokai', 'Syndra', 'Caitlyn', 'Karma']",0
+"['Fiora', 'Jax', 'Jayce', 'Sejuani', 'Vi']","['KSante', 'Wukong', 'Syndra', 'Caitlyn', 'Lux']",0
+"['Lucian', 'Zeri', 'Maokai', 'Draven', 'Alistar']","['Renekton', 'Zac', 'Ryze', 'Sivir', 'Yuumi']",1
+"['Yuumi', 'Akali', 'Zac', 'Fiora', 'Jax']","['KSante', 'Wukong', 'Ryze', 'Kalista', 'Ashe']",0
+"['Lucian', 'Maokai', 'Zeri', 'Sivir', 'Nautilus']","['Renekton', 'Vi', 'Syndra', 'Varus', 'Heimerdinger']",1
+"['Fiora', 'Wukong', 'Zeri', 'Kalista', 'Alistar']","['Olaf', 'Sejuani', 'Azir', 'Sivir', 'Yuumi']",1
+"['Poppy', 'Varus', 'Lucian', 'Syndra', 'Sylas']","['KSante', 'Maokai', 'Ryze', 'Aphelios', 'Lulu']",0
+"['Wukong', 'Fiora', 'Camille', 'Sylas', 'Akali']","['KSante', 'Vi', 'Viktor', 'Zeri', 'Yuumi']",1
+"['Poppy', 'Ryze', 'Jax', 'Azir', 'Syndra']","['Renekton', 'Sejuani', 'LeBlanc', 'Lucian', 'Nami']",0
+"['Galio', 'Sylas', 'Yuumi', 'Varus', 'Ashe']","['Aatrox', 'Maokai', 'Syndra', 'Zeri', 'Lulu']",0
+"['KSante', 'Ryze', 'Lucian', 'Kennen', 'Renekton']","['Fiora', 'Vi', 'Azir', 'Caitlyn', 'Lux']",1
+"['Ryze', 'Fiora', 'Jax', 'Azir', 'Camille']","['Renekton', 'Vi', 'Galio', 'Zeri', 'Yuumi']",0
+"['KSante', 'Sylas', 'Kassadin', 'Syndra', 'LeBlanc']","['Jayce', 'Maokai', 'Akali', 'Lucian', 'Nami']",1
+"['Akali', 'Sejuani', 'Renekton', 'Fiora', 'Jax']","['KSante', 'Wukong', 'Syndra', 'Lucian', 'Nami']",0
+"['Kindred', 'Azir', 'Maokai', 'Poppy', 'Jayce']","['Gwen', 'Vi', 'Ryze', 'Zeri', 'Yuumi']",1
+"['Akali', 'Sejuani', 'Renekton', 'Gwen', 'Fiora']","['KSante', 'Wukong', 'Syndra', 'Lucian', 'Nami']",0
+"['Kindred', 'Azir', 'Maokai', 'Poppy', 'Jayce']","['Gangplank', 'Vi', 'Ryze', 'Zeri', 'Yuumi']",1
+"['Akali', 'Samira', 'KSante', 'Ahri', 'Syndra']","['Renekton', 'Graves', 'Galio', 'Zeri', 'Yuumi']",1
+"['Fiora', 'Varus', 'Ryze', 'Sylas', 'Maokai']","['Aatrox', 'Vi', 'Viktor', 'Lucian', 'Nami']",0
+"['Akali', 'Samira', 'KSante', 'Jax', 'Vi']","['Camille', 'Viego', 'Lissandra', 'Zeri', 'Yuumi']",1
+"['Fiora', 'Varus', 'Renekton', 'Galio', 'Graves']","['Gwen', 'Wukong', 'Ryze', 'Lucian', 'Nami']",0
+"['Kalista', 'Draven', 'Yuumi', 'Wukong', 'Ashe']","['KSante', 'Skarner', 'Ryze', 'Zeri', 'Heimerdinger']",1
+"['Maokai', 'Lucian', 'Sejuani', 'Nocturne', 'Lulu']","['Gwen', 'Viego', 'Syndra', 'Varus', 'Leona']",0
+"['Kalista', 'Yuumi', 'KSante', 'Draven', 'Nilah']","['Aatrox', 'Nidalee', 'Renekton', 'Varus', 'Karma']",0
+"['Maokai', 'Lucian', 'Syndra', 'Heimerdinger', 'Ashe']","['Jax', 'Sejuani', 'Ryze', 'Zeri', 'Lulu']",1
+"['Kalista', 'Draven', 'Yuumi', 'Sejuani', 'Wukong']","['Fiora', 'Zac', 'Ryze', 'Zeri', 'Heimerdinger']",0
+"['Maokai', 'Lucian', 'KSante', 'Skarner', 'Nocturne']","['Jax', 'Vi', 'Syndra', 'Varus', 'Karma']",1
+"['Syndra', 'Lucian', 'Renekton', 'Jayce', 'Azir']","['Gwen', 'Wukong', 'Ahri', 'Zeri', 'Lulu']",0
+"['Ryze', 'Kindred', 'KSante', 'Galio', 'Fiora']","['Aatrox', 'Maokai', 'Akali', 'Sivir', 'Yuumi']",1
+"['Syndra', 'Maokai', 'Renekton', 'Akali', 'LeBlanc']","['Gnar', 'Vi', 'Taliyah', 'Lucian', 'Nami']",1
+"['Ryze', 'Kindred', 'KSante', 'Ahri', 'Fiora']","['Kennen', 'Wukong', 'Lissandra', 'Zeri', 'Lulu']",0
+"['Maokai', 'Lucian', 'Yuumi', 'Vi', 'Viego']","['Camille', 'Wukong', 'Ahri', 'Sivir', 'Ashe']",0
+"['Kindred', 'Ryze', 'KSante', 'Fiora', 'Galio']","['Jayce', 'Sejuani', 'Syndra', 'Varus', 'Heimerdinger']",1
+"['Jax', 'Galio', 'Wukong', 'Kennen', 'Renekton']","['Fiora', 'Graves', 'Syndra', 'Jhin', 'Heimerdinger']",0
+"['Yuumi', 'Lucian', 'Ashe', 'Zeri', 'Sivir']","['Camille', 'Viego', 'Ryze', 'Varus', 'Lux']",1
+"['Jax', 'Wukong', 'Heimerdinger', 'Ashe', 'Kalista']","['Camille', 'Graves', 'Galio', 'Varus', 'RenataGlasc']",0
+"['Yuumi', 'Lucian', 'Zeri', 'Vi', 'Kindred']","['Fiora', 'Viego', 'Ryze', 'Draven', 'Blitzcrank']",1
+"['Lucian', 'Varus', 'Syndra', 'LeBlanc', 'Viktor']","['KSante', 'Vi', 'Akali', 'Caitlyn', 'Lux']",0
+"['Zeri', 'Ryze', 'Yuumi', 'Ahri', 'Fiora']","['Renekton', 'Maokai', 'Azir', 'Kalista', 'Nautilus']",1
+"['Lucian', 'Vi', 'Maokai', 'Renekton', 'Jayce']","['Jax', 'Wukong', 'Kassadin', 'Zeri', 'Lulu']",1
+"['Galio', 'Fiora', 'Ryze', 'Syndra', 'KSante']","['Kennen', 'Poppy', 'Sylas', 'Sivir', 'Yuumi']",0
+"['Lucian', 'Maokai', 'Varus', 'Lulu', 'Renekton']","['Gwen', 'Wukong', 'Akali', 'Kalista', 'Heimerdinger']",0
+"['Galio', 'Ryze', 'Zeri', 'Renata Glasc', 'Fiora']","['KSante', 'Vi', 'Syndra', 'Aphelios', 'Soraka']",1
